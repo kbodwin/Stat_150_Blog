@@ -1,0 +1,31 @@
+---
+title: "How to Display Data Badly"
+author: "Zombie Elephants"
+date: 2019-10-07
+categories: ["Section 02", "Article"]
+tags: ["Section 02", "Visualization"]
+---
+
+In many instances, learn by doing can be a good thing, giving people the opportunity to
+experience things firsthand. On the other hand, there are times where it is best to avoid events
+that may have a negative impact. This is particularly true in the practice of statistics and the
+publishing of data. Instead of making these avoidable mistakes, Howard Wainer has saved us the
+trouble by providing twelve rules in his article, How to Display Data Badly.
+
+<!--more-->
+
+
+In Howard Wainer’s “How to Display Data Badly,” Wainer lists 12 rules on how to poorly display data to teach his reader how to effectively convey the information at hand. Along with verbal explanations of each display error, Wainer also provides visuals to show real-life examples of these mistakes. The rules are grouped to cohesively explain how to not only show data but present the data accurately and clearly. 
+
+For example, data can be hidden because of the scaling. In the bar graph below, it appears that there has been little change in the amount of private schools over the 40 years. However, this is just an effect of the scaling. As you can see in the graph on the right, the scaling is different and thus allows us to see the tremendous growth between 1950 and 1960.  These rules give fellow statisticians the opportunity to improve the quality of their data research and representation.
+
+For example, data can be hidden because of the scaling. In the bar graph below, it appears that there has been little change in the amount of private schools over the 40 years. However, this is just an effect of the scaling. As you can see in the graph on the right, the scaling is different and thus allows us to see the tremendous growth between 1950 and 1960.  These rules give fellow statisticians the opportunity to improve the quality of their data research and representation.
+
+![](/img/bad_plot.jpg)
+
+
+
+To show data, the first rule emphasizes the importance of data density, through using different figures to show the wide range of data densities each figure can have. The reader should understand that informative data should be included, and enough data should be included to convey the message. The next rule elaborates on the importance of a legible and easy to read figure through the correct use of scale and enough ink. 
+To show data accurately, Howard’s third rule highlights the importance of the visual aspect of one’s graph. A good display of data will be cohesive throughout; one should make sure that numerical values align with the drawing (such as through length) and should keep the natural order of data if applicable. Like the third rule, the fourth rule continues to explain how to effectively display data through simplicity. The fifth rule urges the reader to be aware of graphing data out of context; to avoid this, one should carefully and wisely choose the displayed interval/scale. 
+To show data clearly, the sixth rule urges the reader to be aware of changing the interval mid-axis, as doing this can skew the message of the data and consequently lead to false conclusions. Rule seven highlights the difference between important vs. trivial data. Many graphs incorrectly focus on insignificant points which result in less emphasis on the main point trying to be conveyed. The trivial part is information that the reader can already assume. For example, Wainer notes how the relationship between education and income is unsurprising and should not be the main takeaway from the data. Rather the data should have been more focused around the relationship between gender and income. The next rule, rule eight, discusses the implications of altering the baseline of a graph. It is much easier to understand a visual when there is a shared baseline. This alteration may be accompanied with shading which represents summation. Having a total line in place of that would be much easier on the eyes. 
+Rule nine explains the role of alphabetization. Ordering data in alphabetical order impact the information that is being conveyed. Also, since most lists are relatively small, finding the term doesn’t seem to pose that big of a problem. Rule ten talks about ambiguity regarding graphs. This grey area of guessing can appear with labeling that is incomplete, illegible information, and unclear overall. This can result in the reader not getting the entire picture or getting a distorted picture. Rule eleven relates the saying “more is less” to data. This “more” relates to decimal places and dimensions. This usually is a result of an unnecessary level of accuracy. This can create more ambiguity and guesswork. The final rule, rule twelve, relates to originality within one’s work. We should always try to push the way we show our data to a new and innovative way.

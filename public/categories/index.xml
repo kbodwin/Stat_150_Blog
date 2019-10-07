@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Article</title>
+      <link>/categories/article/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cal Poly Tip</title>
       <link>/categories/cal-poly-tip/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
@@ -30,11 +39,38 @@
     </item>
     
     <item>
+      <title>Ethics</title>
+      <link>/categories/ethics/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/ethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Famous Statisticians</title>
+      <link>/categories/famous-statisticians/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/famous-statisticians/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fun Stuff</title>
       <link>/categories/fun-stuff/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/fun-stuff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>/categories/news/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/news/</guid>
       <description></description>
     </item>
     
@@ -53,6 +89,15 @@
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/section-01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Section 02</title>
+      <link>/categories/section-02/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/section-02/</guid>
       <description></description>
     </item>
     

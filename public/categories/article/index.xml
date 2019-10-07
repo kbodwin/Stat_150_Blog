@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article on Stat 150 @ Cal Poly</title>
+    <link>/categories/article/</link>
+    <description>Recent content in Article on Stat 150 @ Cal Poly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/article/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to Display Data Badly</title>
+      <link>/2019/10/how-to-display-data-badly/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/how-to-display-data-badly/</guid>
+      <description>
+
+
+&lt;p&gt;In many instances, learn by doing can be a good thing, giving people the opportunity to
+experience things firsthand. On the other hand, there are times where it is best to avoid events
+that may have a negative impact. This is particularly true in the practice of statistics and the
+publishing of data. Instead of making these avoidable mistakes, Howard Wainer has saved us the
+trouble by providing twelve rules in his article, How to Display Data Badly.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

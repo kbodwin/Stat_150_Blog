@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Section 02 on Stat 150 @ Cal Poly</title>
+    <link>/tags/section-02/</link>
+    <description>Recent content in Section 02 on Stat 150 @ Cal Poly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/section-02/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hadley Wickham</title>
+      <link>/2019/10/hadley-wickham/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/hadley-wickham/</guid>
+      <description>
+
+
+&lt;blockquote&gt;
+&lt;p&gt;One of the attributes that has made me successful is that I am exquisitely sensitive to
+frustration. - Hadley Wickham&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Display Data Badly</title>
+      <link>/2019/10/how-to-display-data-badly/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/how-to-display-data-badly/</guid>
+      <description>
+
+
+&lt;p&gt;In many instances, learn by doing can be a good thing, giving people the opportunity to
+experience things firsthand. On the other hand, there are times where it is best to avoid events
+that may have a negative impact. This is particularly true in the practice of statistics and the
+publishing of data. Instead of making these avoidable mistakes, Howard Wainer has saved us the
+trouble by providing twelve rules in his article, How to Display Data Badly.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Null Results</title>
+      <link>/2019/10/null-results/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/null-results/</guid>
+      <description>
+
+
+&lt;p&gt;Researchers are always looking for exciting results. Whether it be a study about the link between global warming and the frequency of hurricanes, or a new drug that could be effective in curing cancer, scientists or corporations behind the studies would prefer the more exciting results. Researchers want their experiments to prove something under question or shed light on a new topic rather than showing a null result, either supporting a past study or showing no correlation between the variables. Studies with null results go unpublished nearly 80% of the time, a situation that has become known as the “file drawer” phenomenon.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://behavioralscientist.org/the-study-premortem-why-publishing-null-results-is-only-the-first-step/&#34; class=&#34;uri&#34;&gt;https://behavioralscientist.org/the-study-premortem-why-publishing-null-results-is-only-the-first-step/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+---
+title: "Polish Village Hasn’t Seen A Boy Born In Nearly 10 Years-Here’s How
+That Computes"
+author: "Viral Bluefish"
+date: 2019-10-07
+categories: ["Section 01", "News"]
+tags: ["Section 01", "Probability"]
+---
+
+https://theconversation.com/polish-village-hasnt-seen-a-boy-born-in-nearly-10-years-heres-how-that-computes-122176
+
+<!--more-->
+
+In the article [“Polish Village Hasn’t Seen A Boy Born In Nearly 10 Years-Here’s How
+That Computes”](https://theconversation.com/polish-village-hasnt-seen-a-boy-born-in-nearly-10-years-heres-how-
+that-computes-122176), Craig Anderson explores the mathematics behind the last 12 babies born in the
+village of Miejsce Odrzanskie have been girls. This is a very small Polish village, with only 272
+people living in it, and only around 1 baby is born per year. Thus, many geneticists have taken
+interest in the village, because the chances that such a small village having that many girls in a
+row appears significant. But, Anderson looks at it mathematically. The chances of having a girl
+over a boy are, of course. 1⁄2. (1⁄2)^12 (the odds of having 12 girls in a row) is 1/4096. He goes on
+to point out that there are there are about 200,000 towns in the world with a population of 500
+people. Based on the probability, there should be around 100 other towns that also experience
+what Miejsce Odrzanskie did. Anderson’s conclusion is that while the majority of people may
+think having 12 girls in a row is a crazy phenomenon, it is not. The general public just isn’t well
+educated in the field of statistical significance.
+One factor this article fails to consider is the fact that the odds of having a boy or a girl
+are not perfectly 50/50. During the prenatal period, if something goes wrong during meiosis, the
+probabilities are drastically altered. If this happens, the odds of boy-girl are still 50-50. But, if it
+is a girl, there is a 50% chance of the baby having Turner Syndrome, which only 1% of babies
+who have this survive to birth. However, if it is a boy, there is a 50% chance of the baby having
+Klinefelter Syndrome, in which only 20% of babies survive till birth. If this error in meiosis
+occurred in Miejsce Odrzanskie, the odds of having a boy or a girl are biased towards boys, and
+are not 50-50, which is the basic premise that the article is built upon. The study in this article
+could find a way to factor in this phenomenon to their results.

@@ -1,0 +1,574 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Hugo 0.55.5 with theme Tranquilpeak 0.4.7-BETA">
+<meta name="author" content="Statistics 150: The Blog">
+<meta name="keywords" content="">
+<meta name="description" content="
+
+
+Researchers are always looking for exciting results. Whether it be a study about the link between global warming and the frequency of hurricanes, or a new drug that could be effective in curing cancer, scientists or corporations behind the studies would prefer the more exciting results. Researchers want their experiments to prove something under question or shed light on a new topic rather than showing a null result, either supporting a past study or showing no correlation between the variables. Studies with null results go unpublished nearly 80% of the time, a situation that has become known as the “file drawer” phenomenon.
+https://behavioralscientist.org/the-study-premortem-why-publishing-null-results-is-only-the-first-step/
+">
+
+
+<meta property="og:description" content="
+
+
+Researchers are always looking for exciting results. Whether it be a study about the link between global warming and the frequency of hurricanes, or a new drug that could be effective in curing cancer, scientists or corporations behind the studies would prefer the more exciting results. Researchers want their experiments to prove something under question or shed light on a new topic rather than showing a null result, either supporting a past study or showing no correlation between the variables. Studies with null results go unpublished nearly 80% of the time, a situation that has become known as the “file drawer” phenomenon.
+https://behavioralscientist.org/the-study-premortem-why-publishing-null-results-is-only-the-first-step/
+">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Null Results">
+<meta name="twitter:title" content="Null Results">
+<meta property="og:url" content="/2019/10/null-results/">
+<meta property="twitter:url" content="/2019/10/null-results/">
+<meta property="og:site_name" content="Stat 150 @ Cal Poly">
+<meta property="og:description" content="
+
+
+Researchers are always looking for exciting results. Whether it be a study about the link between global warming and the frequency of hurricanes, or a new drug that could be effective in curing cancer, scientists or corporations behind the studies would prefer the more exciting results. Researchers want their experiments to prove something under question or shed light on a new topic rather than showing a null result, either supporting a past study or showing no correlation between the variables. Studies with null results go unpublished nearly 80% of the time, a situation that has become known as the “file drawer” phenomenon.
+https://behavioralscientist.org/the-study-premortem-why-publishing-null-results-is-only-the-first-step/
+">
+<meta name="twitter:description" content="
+
+
+Researchers are always looking for exciting results. Whether it be a study about the link between global warming and the frequency of hurricanes, or a new drug that could be effective in curing cancer, scientists or corporations behind the studies would prefer the more exciting results. Researchers want their experiments to prove something under question or shed light on a new topic rather than showing a null result, either supporting a past study or showing no correlation between the variables. Studies with null results go unpublished nearly 80% of the time, a situation that has become known as the “file drawer” phenomenon.
+https://behavioralscientist.org/the-study-premortem-why-publishing-null-results-is-only-the-first-step/
+">
+<meta property="og:locale" content="en-us">
+
+  
+    <meta property="article:published_time" content="2019-10-07T00:00:00">
+  
+  
+    <meta property="article:modified_time" content="2019-10-07T00:00:00">
+  
+  
+  
+    
+      <meta property="article:section" content="Section 02">
+    
+      <meta property="article:section" content="Ethics">
+    
+  
+  
+    
+      <meta property="article:tag" content="Section 02">
+    
+      <meta property="article:tag" content="P values">
+    
+  
+
+
+<meta name="twitter:card" content="summary">
+
+
+
+
+
+
+
+
+
+
+
+  <meta property="og:image" content="/img/cp_logo.jpg">
+  <meta property="twitter:image" content="/img/cp_logo.jpg">
+
+
+    <title>Null Results</title>
+
+    <link rel="icon" href="/favicon.png">
+    
+
+    
+
+    <link rel="canonical" href="/2019/10/null-results/">
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.min.css" integrity="sha256-vuXZ9LGmmwtjqFX1F+EKin1ThZMub58gKULUyf0qECk=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.css" integrity="sha256-SEa4XYAHihTcEP1f5gARTB2K26Uk8PsndQYHQC1f4jU=" crossorigin="anonymous" />
+    
+    
+    <link rel="stylesheet" href="/css/style-twzjdbqhmnnacqs0pwwdzcdbt8yhv8giawvjqjmyfoqnvazl0dalmnhdkvp7.min.css" />
+    
+    
+
+    
+      
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="4">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="/">Stat 150 @ Cal Poly</a>
+  </div>
+  
+    
+      <a class="header-right-picture "
+         href="/#about">
+    
+    
+    
+      
+        <img class="header-picture" src="/img/cp_logo.jpg" alt="Author&#39;s picture" />
+      
+    
+    </a>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="4">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="/#about">
+          <img class="sidebar-profile-picture" src="/img/cp_logo.jpg" alt="Author&#39;s picture" />
+        </a>
+        <h4 class="sidebar-profile-name">Statistics 150: The Blog</h4>
+        
+          <h5 class="sidebar-profile-bio">An collective blog from the future statisticians and data scientists of Cal Poly.</h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="/">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-home"></i>
+      
+      <span class="sidebar-button-desc">Home</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="/categories">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-bookmark"></i>
+      
+      <span class="sidebar-button-desc">Categories</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="/tags">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
+      
+      <span class="sidebar-button-desc">Tags</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="/archives">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-archive"></i>
+      
+      <span class="sidebar-button-desc">Archives</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="/#about">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-question"></i>
+      
+      <span class="sidebar-button-desc">About</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="/index.xml">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-rss"></i>
+      
+      <span class="sidebar-button-desc">RSS</span>
+    </a>
+  </li>
+
+
+    </ul>
+  </div>
+</nav>
+
+      
+
+      <div id="main" data-behavior="4"
+        class="
+               hasCoverMetaIn
+               ">
+        <article class="post" itemscope itemType="http://schema.org/BlogPosting">
+          
+          
+            <div class="post-header main-content-wrap text-left">
+  
+    <h1 class="post-title" itemprop="headline">
+      Null Results
+    </h1>
+  
+  
+  <div class="postShorten-meta post-meta">
+    
+      <time itemprop="datePublished" datetime="2019-10-07T00:00:00Z">
+        
+  October 7, 2019
+
+      </time>
+    
+    
+  
+  
+    <span>in</span>
+    
+      <a class="category-link" href="/categories/section-02">Section 02</a>, 
+    
+      <a class="category-link" href="/categories/ethics">Ethics</a>
+    
+  
+
+  </div>
+
+</div>
+          
+          <div class="post-content markdown" itemprop="articleBody">
+            <div class="main-content-wrap">
+              <p>Modern science is largely built on experimentation. We want to know whether two factors are related, or what is the cause of some phenomenon, so we design experiments or perform observational studies to test our explanations. Statistics are how we quantify and interpret our results. In any experiment, the null hypothesis is the default, either the results of a previous experiment or observational study, or an assumed independence between variables. The alternative hypothesis represents a hypothesis we have formed which differs from the null hypothesis, i.e. the currently accepted facts. Once an experiment or observational study has been conducted, the key step is to analyse the data and determine whether our results support our alternative hypothesis. If the probability of our results having happened, assuming the null hypothesis is true, is low enough (often &lt; 0.05), then we reject the status quo, that is the null and and choose our alternative hypothesis instead. However, when the p-value is above our significance level, nothing “happens,” we fail to reject the null hypothesis, and things continue on as they were, or do they?</p>
+<p>Researchers are always looking for significant results, results which demonstrate a new relationship between variables, or which rewrite previously accepted facts. In a sense, this is no surprise. Which is more interesting, an experiment that suggests that global warming is contributing to more frequent hurricanes, or an experiment which does not find evidence that global warming is increasing the frequency of hurricanes? Most researchers, let alone the journals which they are trying to publish in, are far more interested in publishing the results of studies like the first, which establish something previously unsuspected or at least unconfirmed. In practice, this is indeed the case, according to research done by a team at Stanford University (published in Science), only 21% of the social science experiments which had null results, were published, as opposed to a publishing rate of 96% for those experiments with strong results (n = 221).</p>
+<p>At first blush this might seem like no problem. Why do we care about experiments which didn’t show us anything new? However, here is where we get into the crux of our issue. Null results actually represent interesting and important information, albeit much less dramatic than a low p-value. The knowledge that no relationship appears to exist, and that a relationship has been tested for but was not found, is at least as important as knowing when a relationship exists. And that is precisely what null results represent.</p>
+<p>Imagine you’re a biologist who is researching whether cattle-grazing increases the number (= diversity) of annual forbs in rangeland. You could have set up an experimental study, which is generally costly and time-consuming (and you’d have to find someone to loan you some cows!), collect the data, and analyse it. However, suppose that another researcher already did such an experiment 15 years ago, but their results were not significant, in other words, their results did not show a statistically significant increase in the number of annual forbs in rangeland, so they did not publish. If you had access to their results you might be able to get the information you want without the expenditure of anywhere near as much time or money. Generally speaking, publishing null results helps avoid the duplication of work by researchers who are interested in a problem that has already been studied by without significant results.</p>
+<p>Perhaps at least as significant (no pun intended!), is the fact that, statistically, we expect 1 out of every 20 trials of an experiment to yield significant results at a significance level of 0.05, when in fact there is no statistically significant relationship there at all! This definitely brings us into an area with ethical concerns. Imagine, for example, that you’ve been commissioned to test a new drug which supposedly cures cancer. You perform a clinical trial, but the result is null. Instead of publishing this result, however, the company directs you to try again, claiming some mistakes must have been made. This process could continue until one of your clinical trials has a significant result, which we expect, on average, once every 20 trials at a significance level of 0.05. If null results were being published, this large number of null results could be noted, and the one significant result could then be properly interpreted as an artifact of chance, but without this context of null results it appears that this drug really is effective at curing cancer. That’s an ethical problem for sure!</p>
+<p>Here is a great interactive resource related to this problem: <a href="https://projects.fivethirtyeight.com/p-hacking/" class="uri">https://projects.fivethirtyeight.com/p-hacking/</a></p>
+<p>Here is an interesting article which takes these ideas a step further: <a href="https://behavioralscientist.org/the-study-premortem-why-publishing-null-results-is-only-the-first-step/" class="uri">https://behavioralscientist.org/the-study-premortem-why-publishing-null-results-is-only-the-first-step/</a></p>
+
+              
+            </div>
+          </div>
+          <div id="post-footer" class="post-footer main-content-wrap">
+            
+              
+                
+                
+                  <div class="post-footer-tags">
+                    <span class="text-color-light text-small">TAGGED IN</span><br/>
+                    
+  <a class="tag tag--primary tag--small" href="/tags/section-02/">Section 02</a>
+
+  <a class="tag tag--primary tag--small" href="/tags/p-values/">P values</a>
+
+                  </div>
+                
+              
+            
+            <div class="post-actions-wrap">
+  
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="/2019/10/minards-graphic-of-napoleon-in-russia/" data-tooltip="Minard’s Graphic of Napoleon in Russia">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="/2019/10/polish-village-hasnt-seen-a-boy-born-in-nearly-10-years-heres-how-that-computes/" data-tooltip="Polish Village Hasn’t Seen A Boy Born In Nearly 10 Years-Here’s How That Computes">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=/2019/10/null-results/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=/2019/10/null-results/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=/2019/10/null-results/">
+              <i class="fa fa-google-plus"></i>
+            </a>
+          </li>
+        
+      
+      
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  
+</div>
+
+            
+              
+                <div id="disqus_thread">
+  <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+              
+            
+          </div>
+        </article>
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2019 Statistics 150: The Blog. All Rights Reserved
+  </span>
+</footer>
+
+      </div>
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="4">
+        <div class="post-actions-wrap">
+  
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="/2019/10/minards-graphic-of-napoleon-in-russia/" data-tooltip="Minard’s Graphic of Napoleon in Russia">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="/2019/10/polish-village-hasnt-seen-a-boy-born-in-nearly-10-years-heres-how-that-computes/" data-tooltip="Polish Village Hasn’t Seen A Boy Born In Nearly 10 Years-Here’s How That Computes">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=/2019/10/null-results/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=/2019/10/null-results/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=/2019/10/null-results/">
+              <i class="fa fa-google-plus"></i>
+            </a>
+          </li>
+        
+      
+      
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  
+</div>
+
+      </div>
+      <div id="share-options-bar" class="share-options-bar" data-behavior="4">
+  <i id="btn-close-shareoptions" class="fa fa-close"></i>
+  <ul class="share-options">
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=%2F2019%2F10%2Fnull-results%2F">
+          <i class="fa fa-facebook-official"></i><span>Share on Facebook</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=%2F2019%2F10%2Fnull-results%2F">
+          <i class="fa fa-twitter"></i><span>Share on Twitter</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://plus.google.com/share?url=%2F2019%2F10%2Fnull-results%2F">
+          <i class="fa fa-google-plus"></i><span>Share on Google&#43;</span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-remove"></i>
+    </div>
+    
+      <img id="about-card-picture" src="/img/cp_logo.jpg" alt="Author&#39;s picture" />
+    
+    <h4 id="about-card-name">Statistics 150: The Blog</h4>
+    
+      <div id="about-card-bio">An collective blog from the future statisticians and data scientists of Cal Poly.</div>
+    
+    
+    
+      <div id="about-card-location">
+        <i class="fa fa-map-marker"></i>
+        <br/>
+        San Luis Obispo
+      </div>
+    
+  </div>
+</div>
+
+    
+
+    
+  
+    
+      <div id="cover" style="background-image:url('/img/calpoly2.jpg');"></div>
+    
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.7/js/jquery.fancybox.min.js" integrity="sha256-GEAnjcTqVP+vBp3SSc8bEDQqvWAZMiHyUSIorrWwH50=" crossorigin="anonymous"></script>
+
+
+<script src="/js/script-pcw6v3xilnxydl1vddzazdverrnn9ctynvnxgwho987mfyqkuylcb1nlt.min.js"></script>
+
+
+<script lang="javascript">
+window.onload = updateMinWidth;
+window.onresize = updateMinWidth;
+document.getElementById("sidebar").addEventListener("transitionend", updateMinWidth);
+function updateMinWidth() {
+  var sidebar = document.getElementById("sidebar");
+  var main = document.getElementById("main");
+  main.style.minWidth = "";
+  var w1 = getComputedStyle(main).getPropertyValue("min-width");
+  var w2 = getComputedStyle(sidebar).getPropertyValue("width");
+  var w3 = getComputedStyle(sidebar).getPropertyValue("left");
+  main.style.minWidth = `calc(${w1} - ${w2} - ${w3})`;
+}
+</script>
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight > code, pre > code').each(function(i, block) {
+    if (!$(this).hasClass('codeblock')) {
+      $(this).addClass('codeblock');
+    }
+    hljs.highlightBlock(block);
+  });
+});
+</script>
+
+
+  
+    
+      <script>
+        var disqus_config = function () {
+          this.page.url = '\/2019\/10\/null-results\/';
+          
+            this.page.identifier = '\/2019\/10\/null-results\/'
+          
+        };
+        (function() {
+          
+          
+          if (window.location.hostname == "localhost") {
+            return;
+          }
+          var d = document, s = d.createElement('script');
+          var disqus_shortname = 'hugo-tranquilpeak-theme';
+          s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+
+          s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+        })();
+      </script>
+    
+  
+
+
+
+
+    
+  </body>
+</html>
+

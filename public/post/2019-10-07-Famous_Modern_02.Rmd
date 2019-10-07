@@ -1,0 +1,51 @@
+---
+title: "Hadley Wickham"
+author: "Dimply Limpet"
+date: 2019-10-07
+categories: ["Section 02", "Famous Statisticians"]
+tags: ["Section 02", "Hadley Wickham", "RStudio"]
+thumbnailImage: https://upload.wikimedia.org/wikipedia/commons/f/fa/Hadley-wickham2016-02-04.jpg
+thumbnailImagePosition: left
+---
+
+<blockquote>
+One of the attributes that has made me successful is that I am exquisitely sensitive to
+frustration. - Hadley Wickham
+
+</blockquote>
+
+<!--more-->
+
+Hadley Wickham is the Chief Scientist at RStudio and an Adjunct Professor of Statistics
+at the University of Auckland, the birthplace of R (programming language), Stanford University,
+and Rice University. He builds computational and cognitive tools that make data science more
+efficient and fun. Wickham was born on October 14th, 1979, and is originally from Hamilton,
+New Zealand. Currently, he lives in Houston, TX with his partner and dog. Wickham is best
+known for the development of open-source statistical analysis software packages for R that
+implements logics of data visualization and data transformation. His packages and writing are
+known for advocating a tidy data approach to data import, analysis, and modelling methods.
+Some of his packages, ggplot2, plyr and reshape, have become fundamental packages for most R
+users. In addition, he is also the author of a collection of books on the topic of using R
+effectively. He recently received the COPSS President Award for his outstanding and influential
+contribution to the field of statistics. Wickham’s hobbies include baking and making cocktails.
+Also, his sister, Charlotte Wickham, is an Assistant Professor of Statistics at Oregon State
+University. Throughout his life, he has faced a multitude of barriers; from being a homosexual
+male, to being in medical school for three years before realizing his interests lie in computer
+science and statistics, Wickham persisted to becoming the best he could be and overcame his
+obstacles.
+
+
+Wickham on how he has been able to contribute to R as much as he has: 
+<blockquote>
+I have worked
+really hard to build a solid writing habit. I try and write for 60-90 minutes every morning
+[...] Writing also makes me aware of gaps in my knowledge and my tools, and filling in
+those gaps tends to make me more efficient at tackling new problems
+</blockquote>
+
+<blockquote>
+I read a lot. I follow about 300 blogs, and keep a pretty close eye on the R tags on
+Twitter and Stack Overflow…. But this wide exposure helps me keep up with changes in
+technology, interesting new programming languages, and what others are doing with
+data.”
+</blockquote>
