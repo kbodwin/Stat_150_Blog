@@ -19,4 +19,4 @@ Minard was able to turn this story and the data to go along with it, into someth
 
 The main takeaway of Minard’s graphic is the importance of storytelling with data. Part of statistics is understanding how to properly convey data, which is typically more quantitative, into something that people can look at, and take meaning from it. The strengths of this graphic, and the way Minard was able to cleanly display many types of data at once is something that all statisticians can strive to work towards with their own analysis.
 
-Related Article about Minard’s graphic: https://www.nationalgeographic.com/news/2017/03/charles-minard-cartography-infographics-history/ 
+[Related Article about Minard’s graphic] (https://www.nationalgeographic.com/news/2017/03/charles-minard-cartography-infographics-history/) 

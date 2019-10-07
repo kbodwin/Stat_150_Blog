@@ -7,7 +7,7 @@ categories: ["Section 01", "News"]
 tags: ["Section 01", "Probability"]
 ---
 
-https://theconversation.com/polish-village-hasnt-seen-a-boy-born-in-nearly-10-years-heres-how-that-computes-122176
+[Link to Article](https://theconversation.com/polish-village-hasnt-seen-a-boy-born-in-nearly-10-years-heres-how-that-computes-122176)
 
 <!--more-->
 

@@ -8,9 +8,6 @@ thumbnailImage: https://assets.catawiki.nl/assets/2019/3/28/a/4/f/a4fefe0d-c756-
 thumbnailImagePosition: left
 ---
 
-<blockquote>
-“It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.”
 
-
-― Sir Arthur Conan Doyle, Sherlock Holmes
-</blockquote>
+>“It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.”
+>― Sir Arthur Conan Doyle, Sherlock Holmes

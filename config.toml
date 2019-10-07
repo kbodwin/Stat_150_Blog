@@ -12,10 +12,10 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseURL = "/"
+baseURL = "http://www.stat150.blog"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "Stat 150 @ Cal Poly"
+title = "Stat 150 at Cal Poly"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
@@ -32,7 +32,7 @@ canonifyurls = true
 
 [author]
   name = "Statistics 150: The Blog"
-  bio = "An collective blog from the future statisticians and data scientists of Cal Poly."
+  bio = "A collective blog from the future statisticians and data scientists of Cal Poly."
   location = "San Luis Obispo"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   # gravatarEmail = "stat.150.kb@gmail.com"

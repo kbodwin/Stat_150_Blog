@@ -8,11 +8,9 @@ thumbnailImage: https://upload.wikimedia.org/wikipedia/commons/f/fa/Hadley-wickh
 thumbnailImagePosition: left
 ---
 
-<blockquote>
-One of the attributes that has made me successful is that I am exquisitely sensitive to
-frustration. - Hadley Wickham
+> One of the attributes that has made me successful is that I am exquisitely sensitive to
+> frustration. - Hadley Wickham
 
-</blockquote>
 
 <!--more-->
 
@@ -36,16 +34,14 @@ obstacles.
 
 
 Wickham on how he has been able to contribute to R as much as he has: 
-<blockquote>
-I have worked
-really hard to build a solid writing habit. I try and write for 60-90 minutes every morning
-[...] Writing also makes me aware of gaps in my knowledge and my tools, and filling in
-those gaps tends to make me more efficient at tackling new problems
-</blockquote>
 
-<blockquote>
-I read a lot. I follow about 300 blogs, and keep a pretty close eye on the R tags on
-Twitter and Stack Overflow…. But this wide exposure helps me keep up with changes in
-technology, interesting new programming languages, and what others are doing with
-data.”
-</blockquote>
+> I have worked really hard to build a solid writing habit. I try and write for 60-90 minutes every morning
+> [...] Writing also makes me aware of gaps in my knowledge and my tools, and filling in
+those gaps tends to make me more efficient at tackling new problems
+
+
+
+> I read a lot. I follow about 300 blogs, and keep a pretty close eye on the R tags on
+> Twitter and Stack Overflow…. But this wide exposure helps me keep up with changes in
+> technology, interesting new programming languages, and what others are doing with
+> data.”

@@ -8,7 +8,7 @@ tags: ["Section 02", "P values"]
 
 Researchers are always looking for exciting results. Whether it be a study about the link between global warming and the frequency of hurricanes, or a new drug that could be effective in curing cancer, scientists or corporations behind the studies would prefer the more exciting results. Researchers want their experiments to prove something under question or shed light on a new topic rather than showing a null result, either supporting a past study or showing no correlation between the variables. Studies with null results go unpublished nearly 80% of the time, a situation that has become known as the “file drawer” phenomenon.
 
-https://behavioralscientist.org/the-study-premortem-why-publishing-null-results-is-only-the-first-step/
+[Link to Article](https://behavioralscientist.org/the-study-premortem-why-publishing-null-results-is-only-the-first-step/)
 
 
 <!--more-->
