@@ -52,5 +52,21 @@
 </description>
     </item>
     
+    <item>
+      <title>Title</title>
+      <link>/2019/10/title/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/title/</guid>
+      <description>
+
+
+&lt;blockquote&gt;
+&lt;p&gt;Quote here&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Teaser text or links here.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

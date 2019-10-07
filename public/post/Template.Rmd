@@ -1,0 +1,25 @@
+---
+title: "Title"
+author: "Your Group Name"
+date: 2019-10-07
+categories: ["Section 01", "Famous Statisticians"]
+tags: ["Section 01", "Hadley Wickham"]
+thumbnailImage: https://upload.wikimedia.org/wikipedia/commons/f/fa/Hadley-wickham2016-02-04.jpg
+thumbnailImagePosition: left
+---
+
+<blockquote>
+
+Quote here
+
+</blockquote>
+
+Teaser text or links here.
+
+<!--more-->
+
+Your writeup here.
+
+To insert images:
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/fa/Hadley-wickham2016-02-04.jpg)
