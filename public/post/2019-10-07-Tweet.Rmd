@@ -1,0 +1,17 @@
+---
+title: "Tweets of the Week"
+author: ""
+date: 2019-10-07
+categories: ["Fun Stuff", "Tweets"]
+tags: ["Tweets"]
+thumbnailImage: /img/twitter.png
+thumbnailImagePosition: left
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A few times a year, I get asked to be a judge of student statistical projects in politics or sports. While the students are very bright, they spend WAY too much time using fancy statistical methods and not enough time framing the right questions and contextualizing their answers.</p>&mdash; Nate Silver (@NateSilver538) <a href="https://twitter.com/NateSilver538/status/1180900333003952128?ref_src=twsrc%5Etfw">October 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!--more-->
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you want to be a good data scientist, you should spend ~49% of your time developing your statistical intuition (i.e. how to ask good questions of the data), and ~49% of your time on domain knowledge (improving overall understanding of your field). Only ~2% on methods per se.</p>&mdash; Nate Silver (@NateSilver538) <a href="https://twitter.com/NateSilver538/status/1180900333771542529?ref_src=twsrc%5Etfw">October 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">R, every damn time (a poem):<br><br>Oh, I&#39;ll just use barplot(), that should do the trick<br>It won&#39;t be so pretty, but it&#39;ll be quick<br><br>A half hour later, and swearing a lot<br>Oh, fine. *adds to script library(ggplot)*<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hadleywickham?ref_src=twsrc%5Etfw">@hadleywickham</a> <a href="https://twitter.com/coletrapnell?ref_src=twsrc%5Etfw">@coletrapnell</a></p>&mdash; Anna Minkina (@Anna_Minkina) <a href="https://twitter.com/Anna_Minkina/status/1179593874055974912?ref_src=twsrc%5Etfw">October 3, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1570420044773.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "749EBF18",
+    "lastKnownWriteTime" : 1570418509,
+    "last_content_update" : 1570418509,
+    "path" : "C:/Users/kbodwin/Dropbox/Stat_150_Blog/content/post/2019-10-07-Data_Analysis-01.Rmd",
+    "project_path" : "content/post/2019-10-07-Data_Analysis-01.Rmd",
+    "properties" : {
+        "cursorPosition" : "6,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

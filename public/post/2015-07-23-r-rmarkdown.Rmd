@@ -1,0 +1,12 @@
+---
+title: ""
+author: "PeeWee Ocelots"
+date: 2019-10-07
+categories: ["Data Analysis"]
+tags: ["Section 01", "Visualization"]
+---
+
+In 1869, Charles Joseph Minard created a graphic depicting Napoleon’s March to Russia. To this day, Minard’s graphic of this march is still regarded highly as a great example of data visualization. This is because Minard’s graphic presents the data in a way that tells a story. The story of Napoleon’s march begins when Czar Alexander of Russia refuses to adhere to Napoleon’s embargo on the UK, and in response Napoleon sent 400,000 troops to attack Russia. But by strategically having the Russia army retreat towards Moscow, Napoleon’s army had a huge loss of resources by the time they reached Moscow and were forced to eventually retreat themselves. 
+Minard was able to turn this story and the data to go along with it, into something easy to visualize and understand. Normally with data such as the number of troops advancing/retreating over longitude, one would plot this over a line graph. But with Minard’s graph, not only did he visualize the flow and size difference of Napoleon’s troops advancing and retreating, but he was also able to show other variables such as temperature, and the actual path of the march itself laid over a map of Europe. Rather than show all the data of Napoleon’s march separately, Minard’s graph helps the viewer understand how all this data fits together, and it paints a better picture of how much of a loss Napoleon’s army suffered. 
+The main takeaway of Minard’s graphic is the importance of storytelling with data. Part of statistics is understanding how to properly convey data, which is typically more quantitative, into something that people can look at, and take meaning from it. The strengths of this graphic, and the way Minard was able to cleanly display many types of data at once is something that all statisticians can strive to work towards with their own analysis. 
+Related Article about Minard’s graphic: https://www.nationalgeographic.com/news/2017/03/charles-minard-cartography-infographics-history/ 

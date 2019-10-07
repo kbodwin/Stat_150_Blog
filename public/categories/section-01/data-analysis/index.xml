@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Section 01/Data Analysis on Stat 150 @ Cal Poly</title>
+    <link>/categories/section-01/data-analysis/</link>
+    <description>Recent content in Section 01/Data Analysis on Stat 150 @ Cal Poly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/section-01/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Minard’s Graphic of Napoleon in Russia</title>
+      <link>/2019/10/minards-graphic-of-napoleon-in-russia/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/minards-graphic-of-napoleon-in-russia/</guid>
+      <description>
+
+
+&lt;p&gt;Are you guys tired of the same boring graphs to represent data? Well, Charles Joseph Minard in 1869 certainly was. To represent Napoleon sending 400,000 troops out to attack Russia in response to Czar Alexander of Russia refusing to adhere to Napoleon’s embargo on the UK, Minard used an elegant graph depicting not only the number of troops, but also temperature and the path of the march over a map of Europe. Rather than simply showing data, Minard had a focus on story-telling which would inspire statisticians for years to come.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

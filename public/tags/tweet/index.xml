@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tweet on Stat 150 @ Cal Poly</title>
+    <link>/tags/tweet/</link>
+    <description>Recent content in Tweet on Stat 150 @ Cal Poly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/tweet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tweets of the Week</title>
+      <link>/2019/10/tweets-of-the-week/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/tweets-of-the-week/</guid>
+      <description>
+
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;
+&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;
+A few times a year, I get asked to be a judge of student statistical projects in politics or sports. While the students are very bright, they spend WAY too much time using fancy statistical methods and not enough time framing the right questions and contextualizing their answers.
+&lt;/p&gt;
+— Nate Silver (&lt;span class=&#34;citation&#34;&gt;@NateSilver538&lt;/span&gt;) &lt;a href=&#34;https://twitter.com/NateSilver538/status/1180900333003952128?ref_src=twsrc%5Etfw&#34;&gt;October 6, 2019&lt;/a&gt;
+&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Stat 150 @ Cal Poly</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Stat 150 @ Cal Poly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cal Poly Tip</title>
+      <link>/categories/cal-poly-tip/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/cal-poly-tip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Analysis</title>
+      <link>/categories/data-analysis/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fun Stuff</title>
+      <link>/categories/fun-stuff/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/fun-stuff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quote</title>
+      <link>/categories/quote/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/quote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Section 01</title>
+      <link>/categories/section-01/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/section-01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tweets</title>
+      <link>/categories/tweets/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/tweets/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

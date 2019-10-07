@@ -1,0 +1,48 @@
+---
+title: "Lab_2"
+author: "Adrienne Boone"
+date: "10/4/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+```
+
+## Load the data
+
+```{r}
+# Load dataset
+titanic <- read_csv("https://www.dropbox.com/s/4fh9pb7kxc1npo4/titanic.csv?dl=1")
+```
+
+```{r}
+titanic <- titanic %>%
+  mutate(
+    Survived = factor(Survived, 
+                             labels = c("No", "Yes")
+                            ),
+    Passenger.Class = factor(Pclass, 
+                             levels = c(1,2,3),
+                             labels = c("First", "Second", "Third")
+                            )
+  )
+```
+
+# Report
+
+The Titanic was a devastating disaster that no one thought could ever happen. The sinking of "the ship that was unsinkable" took the lives of many people. Some passengers were fortunate enough to have survived. These people's data (age, passenger class, sex, etc.) could have affected whether they lived or died. These data will be further examined here. FOr reference, in these plots, 0 = Did not survive/No and 1 = Survived/Yes.
+
+Plot 1 displays the survival rate as it relates to passenger class. According to the graph, an overwhelming amount of people who did not survived were third-class passengers (about 370 out of 550 total dead). This data could have been due to a real-life bias against third-class passengers, who were looked down upon by higher-class passengers and may have been blocked from getting into the boats that would save their lives. In addition, the third-class passengers resided at the lowest level of the Titanic, and may not have known what was going on at the top deck. This level was also the first to flood, meaning less time to escape for these unfortunate passengers.
+
+Plot 2 displays the survival rate as it relates to the sex of the passengers. It shows that many more males perished than females (about 460 out of 550 total dead). This is due to the fact that women and children were the first ones loaded onto the boats, as was custom in 1912. In addition, many lower-class passengers were men traveling to the United States in order to make a living they could bring back to their families. As stated before, third-class passengers perished more than higher-class passengers. Overall, passenger class and sex of passengers were the two variables that most greatly affected if a person survived the sinking of the Titanic. Jack and Rose would agree.
+```{r}
+ggplot(titanic, aes(x = Passenger.Class, fill = Passenger.Class)) + geom_bar() + facet_grid(~Survived) + ggtitle('Plot 1: Survival Rate and Passenger Class') + xlab('Passenger Class')
+```
+```{r}
+ggplot(titanic, aes(x = Sex, fill = Sex)) + geom_bar() + facet_grid(~Survived) + ggtitle('Plot 2: Survival Rate and Sex of Passengers') + xlab('Sex') 
+```

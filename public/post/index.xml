@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Stat 150 @ Cal Poly</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Stat 150 @ Cal Poly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cal Poly Pro Tip</title>
+      <link>/2019/10/cal-poly-pro-tip/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/cal-poly-pro-tip/</guid>
+      <description>At 805 Kitchen, to spice up your waffle, grab toppings from the yogurt bar (chocolate chips, coconut flakes, etc) and add it into your waffle batter before cooking your waffle!</description>
+    </item>
+    
+    <item>
+      <title>Minard’s Graphic of Napoleon in Russia</title>
+      <link>/2019/10/minards-graphic-of-napoleon-in-russia/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/minards-graphic-of-napoleon-in-russia/</guid>
+      <description>
+
+
+&lt;p&gt;Are you guys tired of the same boring graphs to represent data? Well, Charles Joseph Minard in 1869 certainly was. To represent Napoleon sending 400,000 troops out to attack Russia in response to Czar Alexander of Russia refusing to adhere to Napoleon’s embargo on the UK, Minard used an elegant graph depicting not only the number of troops, but also temperature and the path of the march over a map of Europe. Rather than simply showing data, Minard had a focus on story-telling which would inspire statisticians for years to come.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quote of the Week</title>
+      <link>/2019/10/quote-of-the-week/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/quote-of-the-week/</guid>
+      <description>“It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.”
+― Sir Arthur Conan Doyle, Sherlock Holmes</description>
+    </item>
+    
+    <item>
+      <title>Tweets of the Week</title>
+      <link>/2019/10/tweets-of-the-week/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/tweets-of-the-week/</guid>
+      <description>
+
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;
+&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;
+A few times a year, I get asked to be a judge of student statistical projects in politics or sports. While the students are very bright, they spend WAY too much time using fancy statistical methods and not enough time framing the right questions and contextualizing their answers.
+&lt;/p&gt;
+— Nate Silver (&lt;span class=&#34;citation&#34;&gt;@NateSilver538&lt;/span&gt;) &lt;a href=&#34;https://twitter.com/NateSilver538/status/1180900333003952128?ref_src=twsrc%5Etfw&#34;&gt;October 6, 2019&lt;/a&gt;
+&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
