@@ -13,12 +13,12 @@
   </url>
   
   <url>
-    <loc>/tags/cal-poly-tip/</loc>
+    <loc>/categories/cal-poly-tip/</loc>
     <lastmod>2019-10-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/cal-poly-tip/</loc>
+    <loc>/tags/cal-poly-tip/</loc>
     <lastmod>2019-10-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -73,6 +73,11 @@
   </url>
   
   <url>
+    <loc>/2019/10/is-approval-of-trumps-impeachment-really-improving/</loc>
+    <lastmod>2019-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2019/10/minards-graphic-of-napoleon-in-russia/</loc>
     <lastmod>2019-10-07T00:00:00+00:00</lastmod>
   </url>
@@ -108,12 +113,12 @@
   </url>
   
   <url>
-    <loc>/tags/quote/</loc>
+    <loc>/categories/quote/</loc>
     <lastmod>2019-10-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/quote/</loc>
+    <loc>/tags/quote/</loc>
     <lastmod>2019-10-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -128,17 +133,12 @@
   </url>
   
   <url>
-    <loc>/tags/section-01/</loc>
-    <lastmod>2019-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/section-01/</loc>
     <lastmod>2019-10-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/section-02/</loc>
+    <loc>/tags/section-01/</loc>
     <lastmod>2019-10-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -148,7 +148,17 @@
   </url>
   
   <url>
+    <loc>/tags/section-02/</loc>
+    <lastmod>2019-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
+    <lastmod>2019-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/stats-in-the-news/</loc>
     <lastmod>2019-10-07T00:00:00+00:00</lastmod>
   </url>
   

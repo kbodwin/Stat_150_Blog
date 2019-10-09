@@ -1,0 +1,17 @@
+---
+title: "Is Approval of Trump's Impeachment really Improving?"
+author: "smelly_nematode"
+date: 2019-10-07
+categories: ["Section 02", "Stats in the News"]
+tags: ["Section 02"]
+---
+
+Have you read headlines about impeachment, or Donald Trump’s approval rating going down? This article captures the statistics behind presidential popularity and all the biases that often surround it. For instance, differential nonresponse bias may be  causing an appearance of increased support for impeachment, when in reality public perception has not changed. The survey method used to draw opinion results are flawed in that the responses vary by the means of who is responding and who is not - an error pollsters still have to work on in order to “cancel out” the nonresponse bias.
+
+<!--more-->
+
+The article “How a Big Enough News Story Like Impeachment Could Warp the Polls,” by Mark Blumenthal, focuses on how public perception of the president could cause impeachment support to appear larger than it actually is. It details the potential flaws behind polling for accurate impeachment support data and how “differential nonresponse bias” could be producing a supposed “growth” in impeachment support that may not truly be accurate. While Blumenthal points out that in most cases, pollsters can combat errors in polls, in cases of large national events, such as the elections, nonresponse error is much stronger and harder to cancel out. 
+The data was gathered by “panel” surveys, which, as stated in the article are surveys the recontact respondents in order to record changes in their views over time. A problem with this is that certain demographics are more likely to respond than others which can alter the results gathered from the polls. For example, in the case explained in the article it is difficult to tell whether impeachment support is growing or whether there is simply a shift towards more democrats taking polls, showing favor towards Trump’s impeachment that may not be accurate. The data provided in the article helped give the idea that perhaps there is not actually a change in approval rating for Trump, but perhaps the idea of impeachment is simply causing more democrats to respond to surveys. The data showed that the approval rating is not that much higher than it has been before among different parties. 
+
+
+

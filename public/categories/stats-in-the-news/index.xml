@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stats in the News on Stat 150 at Cal Poly</title>
+    <link>/categories/stats-in-the-news/</link>
+    <description>Recent content in Stats in the News on Stat 150 at Cal Poly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/stats-in-the-news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Is Approval of Trump&#39;s Impeachment really Improving?</title>
+      <link>/2019/10/is-approval-of-trumps-impeachment-really-improving/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/is-approval-of-trumps-impeachment-really-improving/</guid>
+      <description>
+
+
+&lt;p&gt;Have you read headlines about impeachment, or Donald Trump’s approval rating going down? This article captures the statistics behind presidential popularity and all the biases that often surround it. For instance, differential nonresponse bias may be causing an appearance of increased support for impeachment, when in reality public perception has not changed. The survey method used to draw opinion results are flawed in that the responses vary by the means of who is responding and who is not - an error pollsters still have to work on in order to “cancel out” the nonresponse bias.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

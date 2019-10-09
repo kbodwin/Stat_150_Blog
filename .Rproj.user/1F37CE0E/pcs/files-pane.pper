@@ -1,8 +1,8 @@
 {
-    "path" : "C:/Users/kbodwin/Dropbox/Stat_150_Blog/content/post",
+    "path" : "C:/Users/kbodwin/Dropbox/Stat_150_Blog/public/post",
     "sortOrder" : [
         {
-            "ascending" : true,
+            "ascending" : false,
             "columnIndex" : 2
         }
     ]
