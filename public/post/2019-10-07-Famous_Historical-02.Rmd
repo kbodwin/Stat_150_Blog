@@ -1,0 +1,19 @@
+---
+title: "Gertrude Cox"
+author: "Stunty Godwit 2"
+date: 2019-10-07
+categories: ["Section 02", "Famous Statisticians"]
+tags: ["Section 02", "Gertrude Cox"]
+thumbnailImage: https://upload.wikimedia.org/wikipedia/en/7/7f/Gertrude_Mary_Cox.jpg
+thumbnailImagePosition: left
+---
+
+
+> “Polynomials are notoriously untrustworthy when extrapolated.” 
+- Gertrude Cox
+
+
+<!--more-->
+Gertrude Cox was born on January 13th, 1900, in Dayton, Ohio. She passed away on October 17th, 1978 in Durham, North Carolina. One of her biggest contributions was her ability to organize and administer programs. One innovative feature of the Cox statistics program was a series of one-week working conferences on specific topics. These topics weren’t just on experimental or mathematical statistics; they covered all statistical research. Gertrude Cox also founded one of the world’s first statistics departments at North Carolina State University in 1941. Cox recruited capable statisticians and made them available for consultation for research, procedures, designing experiments, or analysing data. She co-authored one of the most influential statistics books that have ever been written, Experimental Designs. It was first published in 1950 but is still in print to this day. She also helped head the development of psychological statistics and experimental design. Cox had a love for people and that love lead to a desire to find what makes them tick. She was a Deaconess, an ordained minister, at a Methodist Church. At Iowa University, she obtained a Masters in Statistics and a Bachelors in Math. For a decade, she was the editor of Biometrics Bulletin. She is considered as one of the founders of the Biometrics Society. In January 1941, the department made Cox the first female professor and first female department head at North Carolina State College. George Snedecor, one of those in charge of the department, was asked to recommend five men for the department head position. He added, “Of course if you would consider a woman for this position I would recommend Gertrude Cox of my staff.” This added comment resulted in her appointment as Head of the Department of Experimental Statistics. Cox died of leukemia.
+
+R L Anderson, Biography of Gertrude Cox, in S Kotz and N L Johnson (eds.), Encyclopedia of Statistical Sciences 2 (Wiley, New York, 1983).
