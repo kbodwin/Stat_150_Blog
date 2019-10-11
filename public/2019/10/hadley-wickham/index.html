@@ -328,7 +328,7 @@ data.”</p>
           
             <li class="post-action">
               
-                <a class="post-action-btn btn btn--default tooltip--top" href="/2019/10/gertrude-cox/" data-tooltip="Gertrude Cox">
+                <a class="post-action-btn btn btn--default tooltip--top" href="/2019/10/hadley-wickham/" data-tooltip="Hadley Wickham">
               
                   <i class="fa fa-angle-left"></i>
                   <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
@@ -414,7 +414,7 @@ data.”</p>
           
             <li class="post-action">
               
-                <a class="post-action-btn btn btn--default tooltip--top" href="/2019/10/gertrude-cox/" data-tooltip="Gertrude Cox">
+                <a class="post-action-btn btn btn--default tooltip--top" href="/2019/10/hadley-wickham/" data-tooltip="Hadley Wickham">
               
                   <i class="fa fa-angle-left"></i>
                   <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
@@ -559,6 +559,57 @@ function updateMinWidth() {
   var w1 = getComputedStyle(main).getPropertyValue("min-width");
   var w2 = getComputedStyle(sidebar).getPropertyValue("width");
   var w3 = getComputedStyle(sidebar).getPropertyValue("left");
+  main.style.minWidth = `calc(${w1} - ${w2} - ${w3})`;
+}
+</script>
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight > code, pre > code').each(function(i, block) {
+    if (!$(this).hasClass('codeblock')) {
+      $(this).addClass('codeblock');
+    }
+    hljs.highlightBlock(block);
+  });
+});
+</script>
+
+
+  
+    
+      <script>
+        var disqus_config = function () {
+          this.page.url = '\/2019\/10\/hadley-wickham\/';
+          
+            this.page.identifier = '\/2019\/10\/hadley-wickham\/'
+          
+        };
+        (function() {
+          
+          
+          if (window.location.hostname == "localhost") {
+            return;
+          }
+          var d = document, s = d.createElement('script');
+          var disqus_shortname = 'hugo-tranquilpeak-theme';
+          s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+
+          s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+        })();
+      </script>
+    
+  
+
+
+
+
+    
+  </body>
+</html>
+
+tedStyle(sidebar).getPropertyValue("left");
   main.style.minWidth = `calc(${w1} - ${w2} - ${w3})`;
 }
 </script>

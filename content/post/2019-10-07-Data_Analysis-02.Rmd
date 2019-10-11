@@ -1,0 +1,19 @@
+---
+title: "Minard’s Graphic of Napoleon in Russia"
+author: "Fizzy Lynx"
+date: 2019-10-07
+categories: ["Section 02", "Data Analysis"]
+tags: ["Section 02", "Visualization"]
+thumbnailImage: /img/minard_thumb.png
+thumbnailImagePosition: left
+---
+In the article “Analyzing Minard’s Visualization of Napoleon’s 1812 March,” Joanne Cheng conducts a data analysis on Minard’s graphic of Napoleon in Russia. Cheng states that Edward Tufte calls this graphic one of the “best statistical drawings ever created,” so Cheng conducted the data analysis to figure out why it is such a good graphic. The data analysis covers Napoleon and his troops’ journey into Russia and eventually Moscow in 1812, as the title indicates. 
+
+![](https://66.media.tumblr.com/991de271bd72e0b7e118f5d7fbde2b37/tumblr_inline_p8gudcfM9R1srua81_1280.png)
+
+The numerous graphs in the article show various information regarding the troops’ advancements and retreats along with the number of soldiers, the temperature during the journey, and the path of the troops throughout the journey. The first graph in the article shows the advancements and retreats of the soldiers. As the troops went farther along in their journey and traveled a longer distance, they began to slowly die off. By the end of the third retreat, the number of soldiers decreased from over 250,000 soldiers to under 50,000 soldiers. The main reason for the soldiers dying during the trip was due to the weather conditions. Cheng illustrates the changing weather conditions in the second graph of the article. From the graph, it is clear that as time passed from October to December, the temperature dropped to -30 degrees Celsius. The troops suffered during this time from a lack of warmth and food, leading to possible deaths of hypothermia or starvation. Napoleon realized how his soldiers were dropping like flies and his troops had to retreat on multiple occasions. The third graph depicted by Cheng shows the path that Napoleon’s troops took during the advancements and retreats. All of these separate graphs that were made by Cheng were taken from Minard’s graphic, which is the 4th graph shown. 
+This graph is so impressive due to the fact that Minard was able to include so much information in one graph. He is able to accomplish this without distracting the viewer with unnecessary, excessive information. He uses small text, thin lines, and minimal amount of colors/labels. Cheng notes that what is shown in visuals is equally as important as what is not shown. She contrasts Minard’s graphic with a graphic created by William Playfair. Cheng explains that Playfair’s graph is not as good as Minard’s because it includes too many colors, many large labels, and numerous geographical markings. This is too overwhelming for the eye to truly understand the message. 
+
+By conducting this analysis on Minard’s graphic, Cheng comes to the conclusion and realization that we need to “focus on communication lots of information without overwhelming the users with extraneous content.” This is exactly what Minard is able to accomplish with his graph, which is why Edward Tufte had such high praise for it. This is very important because as statistics majors, we will need to create many visuals in order to visually communicate the data we are analyzing, and we should strive to do as close to what Minard did with his visual. In future studies of Minard’s graph, it would be good to see ways to further improve visuals. 
+
+If you want to find out more information on how to properly display data, visit this website: https://www.columnfivemedia.com/25-tips-to-upgrade-your-data-visualization-design

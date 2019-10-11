@@ -36,6 +36,31 @@
     </item>
     
     <item>
+      <title>Gertrude Cox</title>
+      <link>/2019/10/gertrude-cox/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/gertrude-cox/</guid>
+      <description>
+
+
+&lt;blockquote&gt;
+&lt;p&gt;“Polynomials are notoriously untrustworthy when extrapolated.”
+- Gertrude Cox&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hadley Wickham</title>
+      <link>/2019/10/hadley-wickham/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/hadley-wickham/</guid>
+      <description>Hadley Wickham was born in the city of Hamilton, New Zealand, in 1979. He started his statistics career at a young age when, at 15, he developed Microsoft Access Databases that the company still uses today. Statistics runs in the Wickham family; his father has a PhD in statistics and his sister Charlotte is an assistant professor of statistics at Oregon State University. Wickham switched gears and received a bachelor’s degree in biology from the University of Auckland, NZ.</description>
+    </item>
+    
+    <item>
       <title>Hadley Wickham</title>
       <link>/2019/10/hadley-wickham/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
@@ -92,6 +117,24 @@ trouble by providing twelve rules in his article, How to Display Data Badly.&lt;
 
 &lt;p&gt;Are you guys tired of the same boring graphs to represent data? Well, Charles Joseph Minard in 1869 certainly was. To represent Napoleon sending 400,000 troops out to attack Russia in response to Czar Alexander of Russia refusing to adhere to Napoleon’s embargo on the UK, Minard used an elegant graph depicting not only the number of troops, but also temperature and the path of the march over a map of Europe. Rather than simply showing data, Minard had a focus on story-telling which would inspire statisticians for years to come.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Minard’s Graphic of Napoleon in Russia</title>
+      <link>/2019/10/minards-graphic-of-napoleon-in-russia/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/minards-graphic-of-napoleon-in-russia/</guid>
+      <description>In the article “Analyzing Minard’s Visualization of Napoleon’s 1812 March,” Joanne Cheng conducts a data analysis on Minard’s graphic of Napoleon in Russia. Cheng states that Edward Tufte calls this graphic one of the “best statistical drawings ever created,” so Cheng conducted the data analysis to figure out why it is such a good graphic. The data analysis covers Napoleon and his troops’ journey into Russia and eventually Moscow in 1812, as the title indicates.</description>
+    </item>
+    
+    <item>
+      <title>Null Results</title>
+      <link>/2019/10/null-results/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/null-results/</guid>
+      <description>In today’s scientific studies, researchers are becoming increasingly selective in what results they choose to write about and even more selective in what they publish. In his article “Why null results rarely see the light of day”, Jeffery Mervis details the prominent issue of bias toward writing and publishing strong results over null results in modern research while acknowledging the potential dangers of overemphasizing the publication of null results.In recent times, it has been overtly evident that social science experiments have been heavily in favor of writing and publication of strong results.</description>
     </item>
     
     <item>
