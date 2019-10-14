@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/2019/10/cal-poly-pro-tip/</loc>
-    <lastmod>2019-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/cal-poly-tip/</loc>
+    <loc>/2019/10/cal-poly-pro-tip-lost-items/</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/cal-poly-tip/</loc>
+    <lastmod>2019-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/cal-poly-tip/</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,12 +83,12 @@
   </url>
   
   <url>
-    <loc>/2019/10/stats-in-the-news/</loc>
+    <loc>/categories/stats-in-the-news/</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/stats-in-the-news/</loc>
+    <loc>/2019/10/stats-in-the-news/</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,12 +113,12 @@
   </url>
   
   <url>
-    <loc>/categories/tweets/</loc>
+    <loc>/tags/tweets/</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/tweets/</loc>
+    <loc>/categories/tweets/</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -153,7 +153,7 @@
   </url>
   
   <url>
-    <loc>/2019/10/cal-poly-pro-tip/</loc>
+    <loc>/2019/10/cal-poly-pro-tip-waffles/</loc>
     <lastmod>2019-10-07T00:00:00+00:00</lastmod>
   </url>
   

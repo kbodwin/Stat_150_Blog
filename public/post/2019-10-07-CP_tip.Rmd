@@ -1,5 +1,5 @@
 ---
-title: "Cal Poly Pro Tip"
+title: "Cal Poly Pro Tip: Waffles"
 author: ""
 date: 2019-10-07
 categories: ["Fun Stuff", "Cal Poly Tip"]
