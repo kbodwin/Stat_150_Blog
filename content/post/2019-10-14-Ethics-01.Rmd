@@ -1,0 +1,24 @@
+---
+title: "Data Privacy in the Internet Age"
+author: "Peewee Ocelot"
+date: 2019-10-13
+categories: ["Section 01", "Ethics"]
+tags: ["Section 01"]
+thumbnailImage: https://www.securityindustry.org/wp-content/uploads/2019/02/blog-data-privacy-887x488.jpg
+thumbnailImagePosition: left
+---
+
+In 2014, the newsfeeds of 700,000 Facebook accounts were altered to explore how these alterations affected their temper. Many individuals were outraged to learn that their internet habits were being tracked and manipulated. But this is only one example of the issue of internet privacy and the ethics of it. Continue reading to learn more about how the internet has changed the way we think about privacy and ethics! 
+
+<!--more-->
+
+The invention of the internet has brought along a wave of new opportunities and a
+plethora of benefits to society overall. Despite all these positives, the internet also has some downfalls. One of these negative aspects is the lack of data privacy in this highly digitalized time. With a majority of the world using the internet in some shape or form, it has never been easier to acquire information about people and their day to day lives. As a result, some people are outraged when learning that companies had been selling and/or giving out information about their internet use and the websites that they frequent.  
+
+This ethics issue of data privacy is important as it affects almost everyone. While some individuals may be comfortable with other people tracking their internet usage for research purposes and otherwise, others are not. That sentiment was made evident in a 2014 Facebook study, where the news feed of 700,000 peoples’ Facebook accounts were altered to explore how the changes affected their temper. Once the results of the study were live, people were outraged to learn that their internet usage was followed and manipulated by an outside source. After this study, the exploration for a more ethical method of internet usage studies ensued.  
+
+This ethical issue can also become a problem when concerning statistical analysis. An example of this would be when Facebook was hacked into, and people’s personal data was gathered to try and influence peoples political opinions around the time of the 2016 American presidential election. Even Congress members’ Facebook pages were hacked into, and the public was outraged. While it is unclear if this incident had actually swayed some peoples’ opinions on the ballot, this is a clear example of a time when the ethics issue of data privacy impacted a nationwide poll. Linked below is an article about this specific incident, as well as some other pitfalls concerning the ethics of data privacy.
+
+[This is a link to a related article on data privacy](https://www.euroscientist.com/big-data-ethical-issues/)
+
+![](https://www.securityindustry.org/wp-content/uploads/2019/02/blog-data-privacy-887x488.jpg)

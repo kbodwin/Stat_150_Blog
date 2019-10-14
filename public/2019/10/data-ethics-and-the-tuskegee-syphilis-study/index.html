@@ -1,0 +1,614 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Hugo 0.58.3 with theme Tranquilpeak 0.4.7-BETA">
+<meta name="author" content="Statistics 150: The Blog">
+<meta name="keywords" content="">
+<meta name="description" content="
+
+
+The Tuskegee Study of Untreated Syphilis revolves around the importance of ethics in human experiments. In this study, 600 African men were recruited, 201 without syphilis and 399 with the disease, after being promised access to medical care for free. Despite promises of free medical care, the men were only given placebos, even when penicillin became available as a treatment in 1947 in order to continue with the experiment, which aimed to track the progression of Syphilis in those affected.
+
+“For 40 years, the U.S. Public Health Service has conducted a study in which human guinea pigs, not given proper treatment, have died of syphilis and its side effects”
+- Jean Heller
+
+(https://www.history.com/news/the-infamous-40-year-tuskegee-study)
+(https://catalog.archives.gov/id/281642)
+(https://worldhistoryproject.org/1972/7/25/the-washington-star-exposes-the-tuskegee-experiment-to-a-scandalized-public)
+">
+
+
+<meta property="og:description" content="
+
+
+The Tuskegee Study of Untreated Syphilis revolves around the importance of ethics in human experiments. In this study, 600 African men were recruited, 201 without syphilis and 399 with the disease, after being promised access to medical care for free. Despite promises of free medical care, the men were only given placebos, even when penicillin became available as a treatment in 1947 in order to continue with the experiment, which aimed to track the progression of Syphilis in those affected.
+
+“For 40 years, the U.S. Public Health Service has conducted a study in which human guinea pigs, not given proper treatment, have died of syphilis and its side effects”
+- Jean Heller
+
+(https://www.history.com/news/the-infamous-40-year-tuskegee-study)
+(https://catalog.archives.gov/id/281642)
+(https://worldhistoryproject.org/1972/7/25/the-washington-star-exposes-the-tuskegee-experiment-to-a-scandalized-public)
+">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Data Ethics and the Tuskegee Syphilis Study">
+<meta name="twitter:title" content="Data Ethics and the Tuskegee Syphilis Study">
+<meta property="og:url" content="/2019/10/data-ethics-and-the-tuskegee-syphilis-study/">
+<meta property="twitter:url" content="/2019/10/data-ethics-and-the-tuskegee-syphilis-study/">
+<meta property="og:site_name" content="Stat 150 at Cal Poly">
+<meta property="og:description" content="
+
+
+The Tuskegee Study of Untreated Syphilis revolves around the importance of ethics in human experiments. In this study, 600 African men were recruited, 201 without syphilis and 399 with the disease, after being promised access to medical care for free. Despite promises of free medical care, the men were only given placebos, even when penicillin became available as a treatment in 1947 in order to continue with the experiment, which aimed to track the progression of Syphilis in those affected.
+
+“For 40 years, the U.S. Public Health Service has conducted a study in which human guinea pigs, not given proper treatment, have died of syphilis and its side effects”
+- Jean Heller
+
+(https://www.history.com/news/the-infamous-40-year-tuskegee-study)
+(https://catalog.archives.gov/id/281642)
+(https://worldhistoryproject.org/1972/7/25/the-washington-star-exposes-the-tuskegee-experiment-to-a-scandalized-public)
+">
+<meta name="twitter:description" content="
+
+
+The Tuskegee Study of Untreated Syphilis revolves around the importance of ethics in human experiments. In this study, 600 African men were recruited, 201 without syphilis and 399 with the disease, after being promised access to medical care for free. Despite promises of free medical care, the men were only given placebos, even when penicillin became available as a treatment in 1947 in order to continue with the experiment, which aimed to track the progression of Syphilis in those affected.
+
+“For 40 years, the U.S. Public Health Service has conducted a study in which human guinea pigs, not given proper treatment, have died of syphilis and its side effects”
+- Jean Heller
+
+(https://www.history.com/news/the-infamous-40-year-tuskegee-study)
+(https://catalog.archives.gov/id/281642)
+(https://worldhistoryproject.org/1972/7/25/the-washington-star-exposes-the-tuskegee-experiment-to-a-scandalized-public)
+">
+<meta property="og:locale" content="en-us">
+
+  
+    <meta property="article:published_time" content="2019-10-14T00:00:00">
+  
+  
+    <meta property="article:modified_time" content="2019-10-14T00:00:00">
+  
+  
+  
+    
+      <meta property="article:section" content="Section 02">
+    
+      <meta property="article:section" content="Data Study">
+    
+  
+  
+    
+      <meta property="article:tag" content="Section 02">
+    
+      <meta property="article:tag" content="Tuskegee Syphilis Experiment">
+    
+  
+
+
+<meta name="twitter:card" content="summary">
+
+
+
+
+
+
+
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/3/3a/Tuskegee-syphilis-study_doctor-injecting-subject.jpg">
+  <meta property="twitter:image" content="https://upload.wikimedia.org/wikipedia/commons/3/3a/Tuskegee-syphilis-study_doctor-injecting-subject.jpg">
+
+
+
+
+
+  <meta property="og:image" content="/img/cp_logo.jpg">
+  <meta property="twitter:image" content="/img/cp_logo.jpg">
+
+
+    <title>Data Ethics and the Tuskegee Syphilis Study</title>
+
+    <link rel="icon" href="/favicon.png">
+    
+
+    
+
+    <link rel="canonical" href="/2019/10/data-ethics-and-the-tuskegee-syphilis-study/">
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.min.css" integrity="sha256-vuXZ9LGmmwtjqFX1F+EKin1ThZMub58gKULUyf0qECk=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.css" integrity="sha256-SEa4XYAHihTcEP1f5gARTB2K26Uk8PsndQYHQC1f4jU=" crossorigin="anonymous" />
+    
+    
+    <link rel="stylesheet" href="/css/style-twzjdbqhmnnacqs0pwwdzcdbt8yhv8giawvjqjmyfoqnvazl0dalmnhdkvp7.min.css" />
+    
+    
+
+    
+      
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="4">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="/">Stat 150 at Cal Poly</a>
+  </div>
+  
+    
+      <a class="header-right-picture "
+         href="/#about">
+    
+    
+    
+      
+        <img class="header-picture" src="/img/cp_logo.jpg" alt="Author&#39;s picture" />
+      
+    
+    </a>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="4">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="/#about">
+          <img class="sidebar-profile-picture" src="/img/cp_logo.jpg" alt="Author&#39;s picture" />
+        </a>
+        <h4 class="sidebar-profile-name">Statistics 150: The Blog</h4>
+        
+          <h5 class="sidebar-profile-bio">A collective blog from the future statisticians and data scientists of Cal Poly.</h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="/">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-home"></i>
+      
+      <span class="sidebar-button-desc">Home</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="/categories">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-bookmark"></i>
+      
+      <span class="sidebar-button-desc">Categories</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="/tags">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
+      
+      <span class="sidebar-button-desc">Tags</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="/archives">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-archive"></i>
+      
+      <span class="sidebar-button-desc">Archives</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="/#about">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-question"></i>
+      
+      <span class="sidebar-button-desc">About</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="/index.xml">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-rss"></i>
+      
+      <span class="sidebar-button-desc">RSS</span>
+    </a>
+  </li>
+
+
+    </ul>
+  </div>
+</nav>
+
+      
+
+      <div id="main" data-behavior="4"
+        class="
+               hasCoverMetaIn
+               ">
+        <article class="post" itemscope itemType="http://schema.org/BlogPosting">
+          
+          
+            <div class="post-header main-content-wrap text-left">
+  
+    <h1 class="post-title" itemprop="headline">
+      Data Ethics and the Tuskegee Syphilis Study
+    </h1>
+  
+  
+  <div class="postShorten-meta post-meta">
+    
+      <time itemprop="datePublished" datetime="2019-10-14T00:00:00Z">
+        
+  October 14, 2019
+
+      </time>
+    
+    
+  
+  
+    <span>in</span>
+    
+      <a class="category-link" href="/categories/section-02">Section 02</a>, 
+    
+      <a class="category-link" href="/categories/data-study">Data Study</a>
+    
+  
+
+  </div>
+
+</div>
+          
+          <div class="post-content markdown" itemprop="articleBody">
+            <div class="main-content-wrap">
+              <p>Modern day’s science is based heavily on experimentation, choosing a hypothesis and a proper randomized way to test it. However, in times past often times an ethical viewpoint was missing. The Tuskegee Syphilis Experiment began in 1931, when there was no known treatment for syphilis. This study was conducted by doctors from the United States Public Health Service, and was lead by Dr. John Cutler. The study followed the initial 600 men enrolled in the project throughout their lifetime, with the participants not being treated, to track the progression of syphilis. This continued even through when a recommended treatment of syphilis was found, and until the information got leaked out to the public after investigator’s Peter Buxton found out about the experiment. This information prompted outrage and led the study to be shut down over 40 years later, in 1973.</p>
+<p>The main takeaway message from this study is about data ethics. Clearly, this study violated basic human ethics principles, leading to the deaths of over 100 African men, many of which could’ve been prevented through newly discovered treatments such as penicillin. Due to the researchers not providing care, not only were these men left going blind, insane, or experiencing other major health complications, but the disease spread to spouses and children unnecessarily. Due to this study becoming public, new guidelines for U.S. funded research projects were released regarding data ethics in order to protect human subjects.</p>
+<p>The most shocking part of the experiment was the fact that researchers were unable to provide effective care to these men - men who were promised free medical care for their participation. Researchers watched the full effects of the effects syphilis can leave on the human body without intervening to provide much needed medical care, as they only received placebos, such as aspirin and mineral supplements. Luckily, due to outrage, the experiment was forced to stop; however, this was after many individuals died untreated.</p>
+<pre><code>## Registered S3 method overwritten by &#39;rvest&#39;:
+##   method            from
+##   read_xml.response xml2</code></pre>
+<pre><code>## -- Attaching packages ------------ tidyverse 1.2.1 --</code></pre>
+<pre><code>## v ggplot2 3.2.0     v purrr   0.3.2
+## v tibble  2.1.1     v dplyr   0.8.3
+## v tidyr   0.8.3     v stringr 1.4.0
+## v readr   1.3.1     v forcats 0.4.0</code></pre>
+<pre><code>## Warning: package &#39;dplyr&#39; was built under R version 3.6.1</code></pre>
+<pre><code>## -- Conflicts --------------- tidyverse_conflicts() --
+## x dplyr::filter() masks stats::filter()
+## x dplyr::lag()    masks stats::lag()</code></pre>
+<pre><code>##       Control Syphilitic
+## Dead       97        276
+## Alive      85        167</code></pre>
+<pre class="r"><code>barplot(tuskegee_study_results, main = &quot;Condition vs Fate of Participants in Tuskegee Syphilis &quot;, xlab = &quot;Condition of Participant&quot;, col=c(&quot;lightskyblue2&quot;, &quot;darksalmon&quot;), legend = rownames(tuskegee_study_results), beside = TRUE, border = &quot;transparent&quot;)</code></pre>
+<p><img src="/post/2019-10-14-Article-02_files/figure-html/unnamed-chunk-2-1.png" width="672" /></p>
+
+              
+            </div>
+          </div>
+          <div id="post-footer" class="post-footer main-content-wrap">
+            
+              
+                
+                
+                  <div class="post-footer-tags">
+                    <span class="text-color-light text-small">TAGGED IN</span><br/>
+                    
+  <a class="tag tag--primary tag--small" href="/tags/section-02/">Section 02</a>
+
+  <a class="tag tag--primary tag--small" href="/tags/tuskegee-syphilis-experiment/">Tuskegee Syphilis Experiment</a>
+
+                  </div>
+                
+              
+            
+            <div class="post-actions-wrap">
+  
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="/2019/10/cal-poly-pro-tip/" data-tooltip="Cal Poly Pro Tip">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="/2019/10/quote-of-the-week/" data-tooltip="Quote of the Week">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=/2019/10/data-ethics-and-the-tuskegee-syphilis-study/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=/2019/10/data-ethics-and-the-tuskegee-syphilis-study/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=/2019/10/data-ethics-and-the-tuskegee-syphilis-study/">
+              <i class="fa fa-google-plus"></i>
+            </a>
+          </li>
+        
+      
+      
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  
+</div>
+
+            
+              
+                <div id="disqus_thread">
+  <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+              
+            
+          </div>
+        </article>
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2019 Statistics 150: The Blog. All Rights Reserved
+  </span>
+</footer>
+
+      </div>
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="4">
+        <div class="post-actions-wrap">
+  
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="/2019/10/cal-poly-pro-tip/" data-tooltip="Cal Poly Pro Tip">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="/2019/10/quote-of-the-week/" data-tooltip="Quote of the Week">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=/2019/10/data-ethics-and-the-tuskegee-syphilis-study/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=/2019/10/data-ethics-and-the-tuskegee-syphilis-study/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=/2019/10/data-ethics-and-the-tuskegee-syphilis-study/">
+              <i class="fa fa-google-plus"></i>
+            </a>
+          </li>
+        
+      
+      
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  
+</div>
+
+      </div>
+      <div id="share-options-bar" class="share-options-bar" data-behavior="4">
+  <i id="btn-close-shareoptions" class="fa fa-close"></i>
+  <ul class="share-options">
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=%2F2019%2F10%2Fdata-ethics-and-the-tuskegee-syphilis-study%2F">
+          <i class="fa fa-facebook-official"></i><span>Share on Facebook</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=%2F2019%2F10%2Fdata-ethics-and-the-tuskegee-syphilis-study%2F">
+          <i class="fa fa-twitter"></i><span>Share on Twitter</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://plus.google.com/share?url=%2F2019%2F10%2Fdata-ethics-and-the-tuskegee-syphilis-study%2F">
+          <i class="fa fa-google-plus"></i><span>Share on Google&#43;</span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-remove"></i>
+    </div>
+    
+      <img id="about-card-picture" src="/img/cp_logo.jpg" alt="Author&#39;s picture" />
+    
+    <h4 id="about-card-name">Statistics 150: The Blog</h4>
+    
+      <div id="about-card-bio">A collective blog from the future statisticians and data scientists of Cal Poly.</div>
+    
+    
+    
+      <div id="about-card-location">
+        <i class="fa fa-map-marker"></i>
+        <br/>
+        San Luis Obispo
+      </div>
+    
+  </div>
+</div>
+
+    
+
+    
+  
+    
+      <div id="cover" style="background-image:url('/img/calpoly2.jpg');"></div>
+    
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.7/js/jquery.fancybox.min.js" integrity="sha256-GEAnjcTqVP+vBp3SSc8bEDQqvWAZMiHyUSIorrWwH50=" crossorigin="anonymous"></script>
+
+
+<script src="/js/script-pcw6v3xilnxydl1vddzazdverrnn9ctynvnxgwho987mfyqkuylcb1nlt.min.js"></script>
+
+
+<script lang="javascript">
+window.onload = updateMinWidth;
+window.onresize = updateMinWidth;
+document.getElementById("sidebar").addEventListener("transitionend", updateMinWidth);
+function updateMinWidth() {
+  var sidebar = document.getElementById("sidebar");
+  var main = document.getElementById("main");
+  main.style.minWidth = "";
+  var w1 = getComputedStyle(main).getPropertyValue("min-width");
+  var w2 = getComputedStyle(sidebar).getPropertyValue("width");
+  var w3 = getComputedStyle(sidebar).getPropertyValue("left");
+  main.style.minWidth = `calc(${w1} - ${w2} - ${w3})`;
+}
+</script>
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight > code, pre > code').each(function(i, block) {
+    if (!$(this).hasClass('codeblock')) {
+      $(this).addClass('codeblock');
+    }
+    hljs.highlightBlock(block);
+  });
+});
+</script>
+
+
+  
+    
+      <script>
+        var disqus_config = function () {
+          this.page.url = '\/2019\/10\/data-ethics-and-the-tuskegee-syphilis-study\/';
+          
+            this.page.identifier = '\/2019\/10\/data-ethics-and-the-tuskegee-syphilis-study\/'
+          
+        };
+        (function() {
+          
+          
+          if (window.location.hostname == "localhost") {
+            return;
+          }
+          var d = document, s = d.createElement('script');
+          var disqus_shortname = 'hugo-tranquilpeak-theme';
+          s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+
+          s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+        })();
+      </script>
+    
+  
+
+
+
+
+    
+  </body>
+</html>
+

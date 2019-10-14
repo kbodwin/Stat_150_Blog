@@ -1,0 +1,11 @@
+---
+title: "Tweets of the Week"
+author: ""
+date: 2019-10-14
+categories: ["Fun Stuff", "Tweets"]
+tags: ["Tweets"]
+thumbnailImage: /img/twitter.png
+thumbnailImagePosition: left
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Challenge accepted! Here is a transition between surface area of US counties and their associated population. This arguably provides a much more accurate reading of the situation. <a href="https://twitter.com/observablehq?ref_src=twsrc%5Etfw">@observablehq</a> notebook: <a href="https://t.co/wdfMeV5hO4">https://t.co/wdfMeV5hO4</a> <a href="https://twitter.com/hashtag/HowChartsLie?src=hash&amp;ref_src=twsrc%5Etfw">#HowChartsLie</a> <a href="https://twitter.com/hashtag/DataViz?src=hash&amp;ref_src=twsrc%5Etfw">#DataViz</a> <a href="https://twitter.com/hashtag/d3js?src=hash&amp;ref_src=twsrc%5Etfw">#d3js</a> <a href="https://t.co/lStHeeuMUw">https://t.co/lStHeeuMUw</a> <a href="https://t.co/MpYiXtsHmu">pic.twitter.com/MpYiXtsHmu</a></p>&mdash; Karim Douïeb (@karim_douieb) <a href="https://twitter.com/karim_douieb/status/1181695687005745153?ref_src=twsrc%5Etfw">October 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

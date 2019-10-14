@@ -6,10 +6,42 @@
     <description>Recent content in Fun Stuff on Stat 150 at Cal Poly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/fun-stuff/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cal Poly Pro Tip</title>
+      <link>/2019/10/cal-poly-pro-tip/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/cal-poly-pro-tip/</guid>
+      <description>If you lose a personal item somewhere on campus, you can go to https://afd.calpoly.edu/facilities/services/lost-and-found and file a lost item report.
+If they do not have your item, seek out the head of whichever building you lost the item in.
+For example, if you lost an item in our Statistics classroom (Room 123A of building 38), you go to the ethics department office located south of our classroom on the first floor.</description>
+    </item>
+    
+    <item>
+      <title>Quote of the Week</title>
+      <link>/2019/10/quote-of-the-week/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/quote-of-the-week/</guid>
+      <description>&#34;We need to stop teaching abstinence-only statistics, telling students they can only do it if they are in a committed relationship with a statistician. But all their friends are out there doing statistics and having a great time.
+We need to teach safe stats.&#34;
+― Hadley Wickham
+Source: https://nhorton.people.amherst.edu/mererenovation/17_Wickham.PDF</description>
+    </item>
+    
+    <item>
+      <title>Tweets of the Week</title>
+      <link>/2019/10/tweets-of-the-week/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/tweets-of-the-week/</guid>
+      <description>Challenge accepted! Here is a transition between surface area of US counties and their associated population. This arguably provides a much more accurate reading of the situation. @observablehq notebook: https://t.co/wdfMeV5hO4 #HowChartsLie #DataViz #d3js https://t.co/lStHeeuMUw pic.twitter.com/MpYiXtsHmu— Karim Douïeb (@karim_douieb) October 8, 2019</description>
+    </item>
     
     <item>
       <title>Cal Poly Pro Tip</title>

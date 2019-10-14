@@ -1,0 +1,30 @@
+---
+title: "Stats In The News"
+author: "Zombie Elephants"
+date: "2019-10-14"
+categories: ["Section 01", "Stats In The News"]
+tags: ["Section 01", "What Percentage of Americans Vape"]
+thumbnailImage: https://cdn2.lamag.com/wp-content/uploads/sites/6/2019/10/vaping-ruben-bagues-fe64iWwhoWs-unsplash-1068x711.jpg
+thumbnailImagePosition: left
+output: html_document
+---
+
+
+There seems to be a perception among Americans that vaping is less harmful than tobacco products, and the article “What percentage of Americans Vape”by Zach Hrynowski from Gallup, wanted to better understand the scale of vape use in America. Click here to learn about what this poll concluded about adults use of vape in America. 
+
+
+<!--more-->
+
+["What Percentage of Americans Vape"](https://news.gallup.com/poll/267413/percentage-americans-vape.aspx)
+
+![](https://cdn2.lamag.com/wp-content/uploads/sites/6/2019/10/vaping-ruben-bagues-fe64iWwhoWs-unsplash-1068x711.jpg)
+
+In the article, “What percentage of Americans Vape”by Zach Hrynowski from Gallup, a survey was conducted to try and gather statistics about how much the average american vapes.This article claimed that there is a perception among Americans that vaping is less harmful than tobacco products, and wanted to understand the scale of vape use in America. Gallup conducted telephone interviews from July 1-12, 2019, with a random sample of 1,525 adults, aged 18 and older, living in all 50 US states. They claim that the margin of sampling error is ±3 percentage points at the 95% confidence level, and that all reported margins of sampling error include the computed design effects for weighting. They selected the telephone numbers using random-digit-dial methods. The article also claimed that to gather their statistics, each sample of national adults includes a minimum of 70% cell phone respondents and 30% landline respondents, with additional minimum quotas by time zone within region.
+
+The results matched for the most part what stereotypes would predict. Young people, aged 18-29 vaped by far the most, with 19% reporting use, which is more than twice the national average or the percent of people aged 30-39, both of which reported 8% use. Additionally, people who had not graduated from college reported vaping at 10%, much higher than the 3% of college graduates who vaped. This is very valuable data because it gives a clear picture of the differences in social trends from an objective standpoint. When young people don’t have objective data to look at, it can look as if everyone their age vapes, when, in reality, less than one fifth report to do so. The quality of data collected, which included cellphone and landline interviews of large number of individuals across the United States, gives this data enough credibility to be taken as fact for most conclusions.
+
+On the surface, the data collected seems very concrete and deep, but if you really look into it, it could have been improved. The sample of 1525 adults across 50 states and Washington DC may seem like a lot, but it really is only an average of about 30 people per state. Using only 30 people from each state to represent all of America is not enough to be considered fully accurate data. Also, their method of collecting data by phone call can easily cause false answers to be reported. Many people would not be willing to freely admit that they vape to a random stranger from a news company and may be dishonest. On the other hand, people may also be pressured or feel that they should admit to vaping in order to help the article with its data collection, even if they hadn’t vaped in the last week. Finally, it was stated that the margin of sampling error is 3%, which isn’t unusual by any means. However, many of their comparisons that they are making fall within 3% difference of each other. For example, the differences in gender comparison is only a 3% difference, the differences in race comparison is only a 1% difference, and the difference in income is only a 3% and then 1% difference between the 3 compared ranges. This 3% error could be skewed to tell a completely different story and easily could’ve allowed for the author to make biased and false statements that the reader is unaware about. 
+
+Overall, this article gives a decent analysis of the numbers behind the apparent vaping epidemic in America. While it could be improved, the representation and information presented appears to be mostly accurate and honest.
+
+

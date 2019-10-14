@@ -1,0 +1,16 @@
+---
+title: "Quote of the Week"
+author: ""
+date: 2019-10-14
+categories: ["Fun Stuff", "Quote"]
+tags: ["Quote"]
+---
+
+
+>"We need to stop teaching abstinence-only statistics, telling students they can only do it if they are in a committed relationship with a statistician.  But all their friends are out there doing statistics and having a great time.
+
+>We need to teach safe stats."
+
+>― Hadley Wickham
+
+Source: https://nhorton.people.amherst.edu/mererenovation/17_Wickham.PDF

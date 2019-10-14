@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Stat 150 at Cal Poly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,72 @@
     <item>
       <title>Cal Poly Tip</title>
       <link>/tags/cal-poly-tip/</link>
-      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/cal-poly-tip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quote</title>
+      <link>/tags/quote/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/quote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Section 01</title>
+      <link>/tags/section-01/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/section-01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Section 02</title>
+      <link>/tags/section-02/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/section-02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tuskegee</title>
+      <link>/tags/tuskegee/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tuskegee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tuskegee Syphilis Experiment</title>
+      <link>/tags/tuskegee-syphilis-experiment/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tuskegee-syphilis-experiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tweets</title>
+      <link>/tags/tweets/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tweets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Percentage of Americans Vape</title>
+      <link>/tags/what-percentage-of-americans-vape/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/what-percentage-of-americans-vape/</guid>
       <description></description>
     </item>
     
@@ -57,47 +120,11 @@
     </item>
     
     <item>
-      <title>Quote</title>
-      <link>/tags/quote/</link>
-      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/quote/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>RStudio</title>
       <link>/tags/rstudio/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/rstudio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Section 01</title>
-      <link>/tags/section-01/</link>
-      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/section-01/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Section 02</title>
-      <link>/tags/section-02/</link>
-      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/section-02/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tweets</title>
-      <link>/tags/tweets/</link>
-      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/tweets/</guid>
       <description></description>
     </item>
     

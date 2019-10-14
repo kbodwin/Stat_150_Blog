@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tuskegee on Stat 150 at Cal Poly</title>
+    <link>/tags/tuskegee/</link>
+    <description>Recent content in Tuskegee on Stat 150 at Cal Poly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/tuskegee/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Tuskegee Experiment</title>
+      <link>/2019/10/the-tuskegee-experiment/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/the-tuskegee-experiment/</guid>
+      <description>
+
+
+&lt;p&gt;&lt;a href=&#34;https://www.history.com/news/the-infamous-40-year-tuskegee-study&#34;&gt;This is a link to the article&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In 1932, researchers at Tuskegee Institute performed an unethical study on syphilis in the black male, allowing hundreds of men to die to syphilis under the belief that they were being treated.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

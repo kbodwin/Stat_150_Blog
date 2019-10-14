@@ -1,0 +1,29 @@
+---
+title: "The Tuskegee Experiment"
+author: "Viral Bluefish"
+date: '2019-10-14'
+categories: ["Section 01", "Data Study"]
+tags: ["Section 01", "Tuskegee"]
+thumbnailImage: https://www.cdc.gov/tuskegee/images/DocMan.gif
+thumbnailImagePosition: left
+---
+
+[This is a link to the article](https://www.history.com/news/the-infamous-40-year-tuskegee-study)
+
+
+ 
+In 1932, researchers at Tuskegee Institute performed an unethical study on syphilis in the black male, allowing hundreds of men to die to syphilis under the belief that they were being treated.
+
+<!--more-->
+
+
+  When the Tuskegee Experiment started in 1932, no treatment for syphilis existed. 600 men, who were mostly sharecroppers,  participated in this experiment in exchange for free health care. The participants consisted of 399 men with latent syphilis and 201 men as the control group. Doctors of the U.S. Public Health Service gave them placebos of aspirin and mineral supplements even though penicillin was the best treatment for syphilis at the time. Researchers wanted to learn more about the effects of  disease, so they gave participants no care as they went blind or experienced more health problems due to the untreated disease. Peter Buxton, a PHS venereal disease investigator, reported that this experiment was unethical. However, researchers continued the study and conducted autopsies on the diseased participants. Buxton leaked the experiment to the public which angered many people. As a result, the study ended with 100 participants dead around 40 spouses with the syphilis. In 1973, the surviving participants filed a lawsuit against the U.S Public Health Service with damages at $10 million.  The government created new guidelines regarding the safety of human subjects in government funded research. Despite these measures, many African Americans started to see the healthcare system as corrupt and were reluctant to receive treatment. Since then, several presidents, such as President Bill Clinton and President Barack Obama have apologized on multiple occasions for similar atrocities that have occurred in the past.
+	This article clearly illustrates the importance of conducting ethical studies. The health and safety of your subjects should never be compromised during your experiment, and if there is even a possibility of this happening, you should not continue. As seen in this study, and numerous more throughout history, while valuable information can be concluded through unethical experiments, the harsh lasting effects imposed upon the subjects are not justifiable. As a result of many of these unethical studies, many rules and guidelines have been put into place in order to avoid harming subjects in the conduction of these experiments. Now, it is our responsibility to make sure we follow these guidelines to ensure horrific events such as the Tuskegee Experiment do not happen in the future. 
+Images:
+![](http://www.examiningtuskegee.com/Images/chart_1.gif)
+![](http://www.examiningtuskegee.com/Images/chart_2.gif)
+
+Source: http://www.examiningtuskegee.com/data.html
+
+ Related Article: https://www.cdc.gov/tuskegee/timeline.htm
+

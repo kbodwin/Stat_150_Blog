@@ -6,10 +6,21 @@
     <description>Recent content in Cal Poly Tip on Stat 150 at Cal Poly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/cal-poly-tip/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cal Poly Pro Tip</title>
+      <link>/2019/10/cal-poly-pro-tip/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/cal-poly-pro-tip/</guid>
+      <description>If you lose a personal item somewhere on campus, you can go to https://afd.calpoly.edu/facilities/services/lost-and-found and file a lost item report.
+If they do not have your item, seek out the head of whichever building you lost the item in.
+For example, if you lost an item in our Statistics classroom (Room 123A of building 38), you go to the ethics department office located south of our classroom on the first floor.</description>
+    </item>
     
     <item>
       <title>Cal Poly Pro Tip</title>
