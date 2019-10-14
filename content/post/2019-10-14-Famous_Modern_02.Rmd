@@ -1,0 +1,19 @@
+---
+title: "Xiao-Li Meng"
+author: "Stunty Godwits"
+date: 2019-10-14
+categories: ["Section 02", "Famous Modern Statisticians"]
+tags: ["Section 02", "Xiao-Li Meng"]
+thumbnailImage: https://datascience.harvard.edu/files/datascience/files/10.30.14meng_xiao-li73.jpg?m=1533218425
+thumbnailImagePosition: left
+---
+
+It may come as a shock that one of Harvard’s most notable statistic professors did not learn english as his first language. In fact, Xiao-Li Meng didn’t even acquire his B.S. in America. Neither of these facts have hindered Meng. He’s had over 300 seminars, written over 150 publications, and has earned 2 major awards. This is just a short list of his accomplishments and the ways he has utilized and applied the field of statistics.
+
+
+> "Statistics: Your chance for happiness (or misery)"
+> - Xiao-Li Meng
+
+<!--more-->
+
+Xiao-Li Meng is a current statistics professor at Harvard University. He is 56 years old, and was born in 1963 in Shanghai, China. He acquired his B.S. and graduate degree in mathematics at Fudan University in Shanghai. After this, he attended Harvard for four years, where he was awarded an M.A. in statistics after a year, and a Ph.D in statistics three years later.  Meng is known for writing over one hundred and fifty publications in the field of statistics, contributing to him becoming one of the most-cited mathematicians in the 1990s. He used statistics to improve a wide variety of fields, such as quantifying genetic information, modeling data in astronomy and astrophysics, and analyzing the reporting delay in AIDS surveillance. Meng also focused on both the theoretical aspects of statistics ,like quantifying ignorance, as well as the actual computations involved in statistics, such as bridge and path sampling along with the EM algorithm. For his contributions, Meng received the Committee of Presidents of Statistical Societies (COPSS) Award in 2001 and the Distinguished Achievement Award in 2003. Since earning his PhD, he has held over three hundred seminars, banquet speeches, and keynotes. One barrier Meng faced studying in America was his knowledge of the English language. Despite being an exceptionally bright student, sometimes the language barrier between he and his professors would be problematic. Xiao-Li once recalled a time where he couldn’t figure out a problem, so he went above and beyond producing 100 pages worth of computer output without knowing which was correct. Upon seeing this, the annoyed professor called him in to explain what the pages were for. Meng’s limited vocabulary got him out of the conversation, as he said “saving both of us from going from regression to aggression.” There must have been countless instances where Meng was at a disadvantage to students who were fluent in English, which makes all his achievements just that much more impressive.

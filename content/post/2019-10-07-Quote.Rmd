@@ -1,5 +1,5 @@
 ---
-title: "Quote of the Week"
+title: "Quote of the Week: Sherlock"
 author: ""
 date: 2019-10-07
 categories: ["Fun Stuff", "Quote"]
