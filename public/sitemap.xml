@@ -63,12 +63,12 @@
   </url>
   
   <url>
-    <loc>/categories/section-01/</loc>
+    <loc>/tags/section-01/</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/section-01/</loc>
+    <loc>/categories/section-01/</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,12 +88,12 @@
   </url>
   
   <url>
-    <loc>/categories/stats-in-the-news/</loc>
+    <loc>/2019/10/stats-in-the-news/</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2019/10/stats-in-the-news/</loc>
+    <loc>/categories/stats-in-the-news/</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -118,12 +118,12 @@
   </url>
   
   <url>
-    <loc>/tags/tweets/</loc>
+    <loc>/categories/tweets/</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/tweets/</loc>
+    <loc>/tags/tweets/</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
   </url>
   
