@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clinical Trials on Stat 150 at Cal Poly</title>
+    <link>/tags/clinical-trials/</link>
+    <description>Recent content in Clinical Trials on Stat 150 at Cal Poly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/clinical-trials/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clinical trials revolution could change the future of medical research</title>
+      <link>/2019/10/clinical-trials-revolution-could-change-the-future-of-medical-research/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/clinical-trials-revolution-could-change-the-future-of-medical-research/</guid>
+      <description>As it turns out, clinical trials aren’t so clinical after all. Not what you would expect, right? The primary reason for this is the manipulation of test results by researchers that is encouraged by many academic journals, as they typically have a strong preference of publishing positive test results - those that show a treatment works better than previous ones - rather than those that are negative - those that show a treatment doesn’t work or isn’t as effective as previous ones.</description>
+    </item>
+    
+  </channel>
+</rss>

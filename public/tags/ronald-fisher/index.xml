@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ronald Fisher on Stat 150 at Cal Poly</title>
+    <link>/tags/ronald-fisher/</link>
+    <description>Recent content in Ronald Fisher on Stat 150 at Cal Poly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ronald-fisher/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ronald Fisher</title>
+      <link>/2019/10/ronald-fisher/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/ronald-fisher/</guid>
+      <description>
+
+
+&lt;blockquote&gt;
+&lt;p&gt;“The best time to plan an experiment is after you’ve done it.”
+- Ronald Fisher&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+---
+title: "Ronald Fisher"
+author: "Zombie Elephants"
+date: 2019-10-14
+categories: ["Section 02", "Famous Statisticians"]
+tags: ["Section 02", "Ronald Fisher"]
+thumbnailImage: https://sciences.adelaide.edu.au/sites/default/files/styles/ua_image/public/media/images/2019-06/ronald-fisher-4-uofa.jpg?itok=I9g1VlER
+thumbnailImagePosition: left
+---
+
+
+
+> "The best time to plan an experiment is after you’ve done it."
+> - Ronald Fisher
+
+
+
+<!--more-->
+
+Ronald Fisher was born on February 17, 1890 in London, England. He was born into a wealthy family, capable of sending him to a top private school. Unfortunately, Fisher’s mother passed away when he was just 14 years old and his father’s business closed when Fisher was 15. That did not stop him from attending private school though, as he was a brilliant student and received scholarships to fund his education.  
+
+In school, Fisher found himself interested in both biology and mathematics. He decided to pursue mathematics as he did not like all the memorization required in biology. He decided that he would study mathematics and later apply it to biology. Fisher caught a break in 1909, where he was awarded a scholarship to study mathematics at the University of Cambridge. He graduated three years later, in 1912, with an apparent degree in astronomy. Fisher stayed at Cambridge for another year to study physics and the theory of errors —the connection between astronomy and statistics. After studying the theory of errors, Fisher became a high school mathematics and physics teacher, teaching from 1914 to 1919, as he continued his research in statistics and genetics. Over these years, his passion for statistics became clear as day, with a specific interest in evolution and eugenics. This newly found passion soared to new heights as the years progressed. 
+
+In the light of his newly found passion, Fisher accomplished many achievements. For example, he founded the Cambridge University Eugenics Society, published an important statistical paper in 1918 --detailing handy statistical tools--, wrote, Statistical Methods for Research Workers, in 1925, and took up additional important positions at additional universities. Above all else though was Fisher’s plant-breeding experiments at Rothamsted Experimental Station, where he invented multiple statistical tools that would have an utmost impact on the statistical and genetic world. 
+
+One of Fisher’s major contributions to the field of statistics is the concept of randomization. This method solved the major problem of biased selection, leading to misleading experimental data. The scene of the principle was that before a given cause or treatment can be determined, the experiment must be repeated, with each repetition consisting of random selection in order to reduce the effect of variability in experiments. Another famous achievement in Fisher’s repertoire is the analysis of variance (ANOVA). The idea of this newly found principle was to set up an experiment split into multiple ‘sub experiments’ that are divergent in some way or another, composing a profound improvement over the previous method of utilizing a single factor at a time in a statistical experiment. He applied these newly found concepts in his plant-breeding experiments in his work in genetics. It was later discovered that these statistical methods are applicable to practically any scientific field; a significant improvement in the stem industry. 
+

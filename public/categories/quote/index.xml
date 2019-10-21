@@ -6,10 +6,21 @@
     <description>Recent content in Quote on Stat 150 at Cal Poly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/quote/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Quotes of the Week: Metaphors</title>
+      <link>/2019/10/quotes-of-the-week-metaphors/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/quotes-of-the-week-metaphors/</guid>
+      <description>“Most people use statistics the way a drunkard uses a lamp post: more for support than illumination”-Mark Twain
+“Statisticians, like artists, have the bad habit of falling in love with their models.”-George Box
+</description>
+    </item>
     
     <item>
       <title>Quote of the Week: Safe Stats</title>

@@ -6,26 +6,125 @@
     <description>Recent content in Categories on Stat 150 at Cal Poly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Article Summary</title>
+      <link>/categories/article-summary/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/article-summary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cal Poly Tip</title>
       <link>/categories/cal-poly-tip/</link>
-      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/cal-poly-tip/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Data Analysis</title>
+      <link>/categories/data-analysis/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data Study</title>
       <link>/categories/data-study/</link>
-      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/data-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethics Topic</title>
+      <link>/categories/ethics-topic/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/ethics-topic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Famous Statisticians</title>
+      <link>/categories/famous-statisticians/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/famous-statisticians/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fun Stuff</title>
+      <link>/categories/fun-stuff/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/fun-stuff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quote</title>
+      <link>/categories/quote/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/quote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Section 01</title>
+      <link>/categories/section-01/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/section-01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Section 02</title>
+      <link>/categories/section-02/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/section-02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stats in the News</title>
+      <link>/categories/stats-in-the-news/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/stats-in-the-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Article</title>
+      <link>/categories/article/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethics Study</title>
+      <link>/categories/ethics-study/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/ethics-study/</guid>
       <description></description>
     </item>
     
@@ -35,51 +134,6 @@
       <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/famous-modern-statisticians/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fun Stuff</title>
-      <link>/categories/fun-stuff/</link>
-      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/fun-stuff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quote</title>
-      <link>/categories/quote/</link>
-      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/quote/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Section 01</title>
-      <link>/categories/section-01/</link>
-      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/section-01/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Section 02</title>
-      <link>/categories/section-02/</link>
-      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/section-02/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stats in the News</title>
-      <link>/categories/stats-in-the-news/</link>
-      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/stats-in-the-news/</guid>
       <description></description>
     </item>
     
@@ -98,33 +152,6 @@
       <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/ethics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Article</title>
-      <link>/categories/article/</link>
-      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/article/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data Analysis</title>
-      <link>/categories/data-analysis/</link>
-      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/data-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Famous Statisticians</title>
-      <link>/categories/famous-statisticians/</link>
-      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/famous-statisticians/</guid>
       <description></description>
     </item>
     

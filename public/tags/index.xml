@@ -6,24 +6,69 @@
     <description>Recent content in Tags on Stat 150 at Cal Poly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title></title>
+      <link>/tags/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cal Poly Tip</title>
       <link>/tags/cal-poly-tip/</link>
-      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/cal-poly-tip/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Clinical Trials</title>
+      <link>/tags/clinical-trials/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/clinical-trials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Florence Nightingale</title>
+      <link>/tags/florence-nightingale/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/florence-nightingale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Subjects</title>
+      <link>/tags/human-subjects/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/human-subjects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nate Silver</title>
+      <link>/tags/nate-silver/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/nate-silver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Quote</title>
       <link>/tags/quote/</link>
-      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/quote/</guid>
       <description></description>
@@ -32,7 +77,7 @@
     <item>
       <title>Section 01</title>
       <link>/tags/section-01/</link>
-      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/section-01/</guid>
       <description></description>
@@ -41,9 +86,36 @@
     <item>
       <title>Section 02</title>
       <link>/tags/section-02/</link>
-      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/section-02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zimbardo</title>
+      <link>/tags/zimbardo/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/zimbardo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Privacy in the Internet Age</title>
+      <link>/tags/data-privacy-in-the-internet-age/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/data-privacy-in-the-internet-age/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ronald Fisher</title>
+      <link>/tags/ronald-fisher/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ronald-fisher/</guid>
       <description></description>
     </item>
     
@@ -89,6 +161,15 @@
       <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/xiao-li-meng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>p-hacking</title>
+      <link>/tags/p-hacking/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/p-hacking/</guid>
       <description></description>
     </item>
     

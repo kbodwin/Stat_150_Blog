@@ -1,0 +1,25 @@
+---
+title: "Florence Nightingale"
+author: "Tanned Degus"
+date: 2019-10-21
+categories: ["Section 02", "Famous Statisticians"]
+tags: ["Section 02", "Florence Nightingale"]
+thumbnailImage: https://upload.wikimedia.org/wikipedia/commons/a/ab/Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg
+thumbnailImagePosition: left
+---
+
+
+> "The world is put back by the death of everyone who has to sacrifice the development of his or her peculiar gifts to conventionality."
+> - Florence Nightingale
+
+
+
+
+  Florence Nightingale is a prominent figure in the nursing world, well known for her work during the Crimean war and for founding the first professional nursing school in the world. Nightingale worked with the British government to improve sanitation in field hospitals, while also improving nutrition and acquiring more medical supplies for the soldiers. Her work with these field hospitals helped to save thousands of lives of soldiers who would have died from cramped, non-sanitary conditions in regular field hospitals. Nightingale returned after the war and improved hospital conditions across England by altering hospital designs to keep the ill clean and keep the filth at bay. What many people do not know, however, is her important contributions to the field of statistics.
+  
+  Nightingale, upon arrival at the Crimean War, noted that no information was being recorded and that no one could even put a number on the death toll at the time. Nightingale instituted strict record-keeping, the first instance of record-keeping for hospitals, data ranging from death count to illnesses and injuries. Her compilation of data helped her and her team realize the poor sanitation was the leading cause of death in these field hospitals and inspired her to make reforms. Nightingale became well known in her use of intricate data visualization, she used pie charts and histograms often, but it was the coxcomb that brought her fame. Nightingale used the coxcomb graph, which resembles a pie chart but where the slices have varying lengths to display more information within one chart. One example of how she used this was by separating the chart into 12 sections to represent the months of the year and then the length of each section would represent the visits to the hospital. Then each section would be shaded into the number of deaths during that period. Nightingale’s use of charts like these shed light on the importance of data visualization and the use of varying charts and graphs.
+  
+  Nightingale became known as the “Lady with the Lamp” in the field hospitals from a quote in The Times “She is a "ministering angel" without any exaggeration in these hospitals, and as her slender form glides quietly along each corridor, every poor fellow's face softens with gratitude at the sight of her. When all the medical officers have retired for the night and silence and darkness have settled down upon those miles of prostrate sick, she may be observed alone, with a little lamp in her hand, making her solitary rounds.” Nightingale’s journey wasn’t without struggle though, she had to see injured and ill soldiers every day. In her early years, she was born into an affluent family so she was able to get a good education, unlike many other women at the time. She worked alongside men in much of her early professional years and some jobs did not grant her an equal salary since she was female, but her father provided her with compensation to help her in her pursuit of saving lives. Nightingale was able to make a significant impact on our modern society, first saving thousands of lives, and introducing the importance of record-keeping in hospitals, which led to the discovery of how necessary sanitation is in hospitals and home life. Florence Nightingale passed peacefully at 90 years old leaving a significant impact on the world.
+
+
+![](https://upload.wikimedia.org/wikipedia/commons/a/ab/Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg)

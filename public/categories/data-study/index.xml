@@ -6,10 +6,42 @@
     <description>Recent content in Data Study on Stat 150 at Cal Poly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/data-study/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Stanford Prison Experiment: A Total Fraud?</title>
+      <link>/2019/10/the-stanford-prison-experiment-a-total-fraud/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/the-stanford-prison-experiment-a-total-fraud/</guid>
+      <description>Many of the most famous studies and experiments of the past years have lacked the ethics to provide real insight into the topics at hand
+“I can list so many more textbook psychology findings that have either not replicated, or are currently in the midst of a serious reevaluation.”- Brian Resnick
+https://www.vox.com/2018/6/13/17449118/stanford-prison-experiment-fraud-psychology-replication
+Of the numerous studies conducted over the past few decades, the Stanford Prison Experiment has to be one of the most famous.</description>
+    </item>
+    
+    <item>
+      <title>Data Ethics and the Tuskegee Syphilis Study</title>
+      <link>/2019/10/data-ethics-and-the-tuskegee-syphilis-study/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/data-ethics-and-the-tuskegee-syphilis-study/</guid>
+      <description>
+
+
+&lt;p&gt;The Tuskegee Study of Untreated Syphilis revolves around the importance of ethics in human experiments. In this study, 600 African men were recruited, 201 without syphilis and 399 with the disease, after being promised access to medical care for free. Despite promises of free medical care, the men were only given placebos, even when penicillin became available as a treatment in 1947 in order to continue with the experiment, which aimed to track the progression of Syphilis in those affected.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“For 40 years, the U.S. Public Health Service has conducted a study in which human guinea pigs, not given proper treatment, have died of syphilis and its side effects”
+- Jean Heller&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;(&lt;a href=&#34;https://www.history.com/news/the-infamous-40-year-tuskegee-study&#34; class=&#34;uri&#34;&gt;https://www.history.com/news/the-infamous-40-year-tuskegee-study&lt;/a&gt;)
+(&lt;a href=&#34;https://catalog.archives.gov/id/281642&#34; class=&#34;uri&#34;&gt;https://catalog.archives.gov/id/281642&lt;/a&gt;)
+(&lt;a href=&#34;https://worldhistoryproject.org/1972/7/25/the-washington-star-exposes-the-tuskegee-experiment-to-a-scandalized-public&#34; class=&#34;uri&#34;&gt;https://worldhistoryproject.org/1972/7/25/the-washington-star-exposes-the-tuskegee-experiment-to-a-scandalized-public&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Data Ethics and the Tuskegee Syphilis Study</title>

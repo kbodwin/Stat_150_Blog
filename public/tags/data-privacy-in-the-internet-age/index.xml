@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Privacy in the Internet Age on Stat 150 at Cal Poly</title>
+    <link>/tags/data-privacy-in-the-internet-age/</link>
+    <description>Recent content in Data Privacy in the Internet Age on Stat 150 at Cal Poly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/data-privacy-in-the-internet-age/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Privacy</title>
+      <link>/2019/10/data-privacy/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/data-privacy/</guid>
+      <description>Think that you are safe from Big Brother? Think again. In a world where we protect ourselves, our personal belongings, and our loved ones, we are unable to protect a vital part of our lives – our online information. Nowadays, everything we do on the internet can be tracked and recorded. Over the years, online users have been manipulated and exploited by companies such as Cambridge Analytica and Facebook. These companies have gathered and used our information such as the sites we look at or the things we buy for their own experimentation and data analysis.</description>
+    </item>
+    
+  </channel>
+</rss>
