@@ -1,0 +1,31 @@
+---
+title: "Nate Silver"
+author: "Cussed Alleycats"
+date: 2019-10-21
+categories: ["Section 01", "Famous Statisticians"]
+tags: ["Section 01", "Nate Silver"]
+thumbnailImage: https://fivethirtyeight.com/wp-content/uploads/2015/07/natesilver2_light.jpg?w=1200
+thumbnailImagePosition: left
+---
+
+> "The irony is that by being less focused on your results, you may achieve better ones.” 
+― Nate Silver
+
+
+<!--more-->
+
+
+Ever heard of the “spreadsheet psychic” or the “number-crunching prodigy”? Well if you have, then you have most likely heard of famous statistician and journalist, Nate Silver. Silver has been able to predict and forecast models of every day events with astounding results. 
+
+Nate Silver is currently 41 years old and was born in East Lansing, Michigan on January 13, 1978.  He graduated from the University of Chicago with Honors with a Bachelor of Arts in economics. After graduating, Silver worked as an economic consultant for three years at KPMG, while also doing a combination of his true interests, statistics and baseball, on the side. He developed PECOTA (Player Empirical Comparison and Optimization Test Algorithm), a system that predicts player performance and careers of hitters and pitchers in the MLB. He soon quit his job as an economic consultant, and sold PECOTA to Baseball Prospectus in return for a partnership interest. 
+
+After leaving KPMG, he became the Managing Partner of Baseball Prospectus and continued to develop PECOTA. He used sabermetrics (the empirical analysis of baseball) to predict the performance of specific players, the economics of baseball, the value of a player, and created an Elo rating system for the MLB. While working at Baseball Prospectus, Silver created his own blog FiveThirtyEight.com, a website that is centered around opinion poll analysis, politics, economics, and sports blogging. A neat fact about this website is that its name is from the number of electors in the US electoral college. In 2008, he successfully predicted the outcomes of 49 out of 50 states in the 2008 US Presidential Election. In 2012, his prediction system accurately predicted the winner of all 50 states. In 2013, Silver sold FiveThirtyEight to ESPN and became the editor in chief. FiveThirtyEight continues to center around data journalism. 
+
+Silver faced a lot of backlash after the 2016 Presidential Election, as his model showed Clinton ahead of Trump. He predicted that Trump only had a 30% chance of winning.  The Huffington Post claimed that Silver was making a mockery of the forecasting industry, whipping up panic, and changing the results of polls to fit where he thinks the polls are. Silver had to defend that FiveThirtyEight was based on empirical evidence, and slammed the Huffington Post for being “so f---ing idiotic and irresponsible”. Also, when looking at which data to use, Silver must perform statistics on statistics, which can make it difficult to know how valuable each bit of information is. 
+
+Silver has helped people understand data of everyday things that they might be interested in. Some fun facts about Silver are that he was awarded six honorary doctoral degrees, plays poker semi professionally, and is openly gay. 
+ 
+[A link to neat TED talk of his! ](https://www.ted.com/talks/nate_silver_on_race_and_politics?language=en)
+
+
+![](https://fivethirtyeight.com/wp-content/uploads/2015/07/natesilver2_light.jpg?w=1200)
