@@ -6,26 +6,62 @@
     <description>Recent content in Tags on Stat 150 at Cal Poly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>/tags/</link>
-      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      <title>Cal Poly Tip</title>
+      <link>/tags/cal-poly-tip/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/</guid>
+      <guid>/tags/cal-poly-tip/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cal Poly Tip</title>
-      <link>/tags/cal-poly-tip/</link>
-      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      <title>Daniela Witten</title>
+      <link>/tags/daniela-witten/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/cal-poly-tip/</guid>
+      <guid>/tags/daniela-witten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Tukey</title>
+      <link>/tags/john-tukey/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/john-tukey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Section 01</title>
+      <link>/tags/section-01/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/section-01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Section 02</title>
+      <link>/tags/section-02/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/section-02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TED</title>
+      <link>/tags/ted/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ted/</guid>
       <description></description>
     </item>
     
@@ -57,6 +93,15 @@
     </item>
     
     <item>
+      <title>Medical Research</title>
+      <link>/tags/medical-research/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/medical-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Nate Silver</title>
       <link>/tags/nate-silver/</link>
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
@@ -75,20 +120,11 @@
     </item>
     
     <item>
-      <title>Section 01</title>
-      <link>/tags/section-01/</link>
+      <title>Stats in the News</title>
+      <link>/tags/stats-in-the-news/</link>
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/section-01/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Section 02</title>
-      <link>/tags/section-02/</link>
-      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/section-02/</guid>
+      <guid>/tags/stats-in-the-news/</guid>
       <description></description>
     </item>
     
@@ -102,11 +138,29 @@
     </item>
     
     <item>
+      <title>Florence Nightengale</title>
+      <link>/tags/florence-nightengale/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/florence-nightengale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data Privacy in the Internet Age</title>
       <link>/tags/data-privacy-in-the-internet-age/</link>
       <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/data-privacy-in-the-internet-age/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>p-hacking</title>
+      <link>/tags/p-hacking/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/p-hacking/</guid>
       <description></description>
     </item>
     
@@ -165,15 +219,6 @@
     </item>
     
     <item>
-      <title>p-hacking</title>
-      <link>/tags/p-hacking/</link>
-      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/p-hacking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gertrude Cox</title>
       <link>/tags/gertrude-cox/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
@@ -206,6 +251,15 @@
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/probability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Responsible Statistic Education and Common Misinterpretations</title>
+      <link>/tags/responsible-statistic-education-and-common-misinterpretations/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/responsible-statistic-education-and-common-misinterpretations/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Medical Research on Stat 150 at Cal Poly</title>
+    <link>/tags/medical-research/</link>
+    <description>Recent content in Medical Research on Stat 150 at Cal Poly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/medical-research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Medical Fraud</title>
+      <link>/2019/10/medical-fraud/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/medical-fraud/</guid>
+      <description>Have you ever read something that suspiciously links a certain medicine or food or something random to a serious medical condition? As patients, we’re taught that people in the medical field are trustworthy; however, some release very suspicious and questionable research conclusions that are complete frauds. John Carlisle is a statistical researcher and consultant anaesthetist working to help find and debunk fraud in medical research. In the following article, there is a conversation about major incidents of research frauds and how researchers like Carlisle are using statistics to seek out the red flags of sketchy research practices.</description>
+    </item>
+    
+  </channel>
+</rss>

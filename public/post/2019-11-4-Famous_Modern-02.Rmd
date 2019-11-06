@@ -1,0 +1,24 @@
+---
+title: "Daniela Witten"
+author: "tanned_degus"
+date: 2019-11-04
+categories: ["Section 02", "Famous Statisticians"]
+tags: ["Section 02", "Daniela Witten"]
+thumbnailImage: https://news-media.stanford.edu/wp-content/uploads/2018/03/09092707/WIDS_1788-375x250.jpg
+thumbnailImagePosition: left
+---
+
+
+> "Banning p-values as a way to reduce irreproducibility in science is like banning strep tests as a way to reduce the prevalence of strep. As in, it does not work"
+> - Daniela Witten
+
+
+<!--more-->
+
+Mentioned in Forbes’ 30 under 30 in Science and Healthcare three years in a row, Daniela Witten is a name in Statistics that cannot be ignored. Born to two physicists Edward and Chiara Witten in 1990, she had a strong educational foundation to propel her to where she is today. She attended Stanford University majoring in Mathematics and Biological Sciences and completing her undergraduate degree in 2005. Winning the Stanford University Firestone Medal for Excellence in Research she went on to complete a Master’s degree in Statistics from the same university followed by a doctorate in the same field in 2010 writing her thesis on a penalized matrix decomposition and its applications. Shortly after the reception of her doctorate the National Institutes of Health bestowed on her an Early Independence Award. This award allows remarkable, young scientists to take on independent research immediately after receiving their graduate degrees. Also winning the National Science Foundation CAREER Award, she was able to create new graphical modeling functions with the large cash prize. She also received several other awards from Stanford. Not stopping there and continues to influence many fields as is the nature of statisticians and is working on using statistics to help with personalized cancer therapy.
+
+Currently a Professor of Statistics and Biostatistics at the University of Washington, along with teaching and co-authoring a textbook, she has made many strides in the field of data science. She has created many machine learning functions for working to understand large and intricate data sets from the fields of neuroscience, genomics, and many others. She was given an informative TED talk and has made 67 statistical publications while affiliated with the University of Washington. Some of the titles of the research papers include: New Insights and Faster Computations for the Graphical Lasso, Reassessing authorship of the Book of Mormon using delta and nearest shrunken centroid classification, and Discussion on Covariate-assisted ranking and screening for large-scale two-sample inference. She is concerned about the public’s undervaluation of the importance of Statistics. From an interview in by Medium in 2018 Daniela said, “We have a responsibility to clearly communicate what we do, and why it is important, so that we can have a seat at the table.” She is determined to make Statistics more understandable and communicate its importance in order to move the sciences forward. Drawn to the field by the desire to answer many scientific questions throughout her career she has spent much of her time putting her talents to good use. She enjoys working on projects with her students and when she is not working she enjoys spending time with her family, her husband and two children. She loves the outdoors and enjoys traveling, wakeboarding, hiking, skiing, and biking. Still young, she has incredible potential to make a lasting impact on the field of Statistics over the next few decades. 
+
+
+
+![](https://news-media.stanford.edu/wp-content/uploads/2018/03/09092707/WIDS_1788-375x250.jpg)

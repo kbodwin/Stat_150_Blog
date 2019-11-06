@@ -6,10 +6,52 @@
     <description>Recent content in Section 02 on Stat 150 at Cal Poly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/section-02/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Daniela Witten</title>
+      <link>/2019/11/daniela-witten/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/daniela-witten/</guid>
+      <description>
+
+
+&lt;blockquote&gt;
+&lt;p&gt;“Banning p-values as a way to reduce irreproducibility in science is like banning strep tests as a way to reduce the prevalence of strep. As in, it does not work”
+- Daniela Witten&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>John Tukey</title>
+      <link>/2019/11/john-tukey/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/john-tukey/</guid>
+      <description>“Be approximately right rather than exactly wrong.”
+John Tukey was an American statistician of the mid 1900’s who played a significant role in introducing concepts and terminology used in modern statistics. Born in 1915, Tukey was homeschooled by both his parents who were teachers. He received a Bachelor’s Degree in chemistry at Brown University and a Master’s Degree a year later. He then attended Princeton University to study mathematics and obtained his Ph.</description>
+    </item>
+    
+    <item>
+      <title>Statistics before Calculus?</title>
+      <link>/2019/11/statistics-before-calculus/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/statistics-before-calculus/</guid>
+      <description>
+
+
+&lt;div id=&#34;blurb&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Blurb&lt;/h2&gt;
+&lt;p&gt;In this TED talk, Professor Arthur Benjamin of Harvey Mudd University describes his thoughts on mathematics curriculum and how it’s attachment to calculus is somewhat archaic, and a newer more useful approach would be to focus on statistics and a more modern and concrete approach to mathematics using statistics and data.
+(&lt;a href=&#34;https://www.ted.com/talks/arthur_benjamin_s_formula_for_changing_math_education/transcript?language=en&#34; class=&#34;uri&#34;&gt;https://www.ted.com/talks/arthur_benjamin_s_formula_for_changing_math_education/transcript?language=en&lt;/a&gt;)
+</description>
+    </item>
     
     <item>
       <title>Clinical trials revolution could change the future of medical research</title>
@@ -250,6 +292,15 @@ trouble by providing twelve rules in his article, How to Display Data Badly.&lt;
       
       <guid>/2019/10/minards-graphic-of-napoleon-in-russia/</guid>
       <description>In the article “Analyzing Minard’s Visualization of Napoleon’s 1812 March,” Joanne Cheng conducts a data analysis on Minard’s graphic of Napoleon in Russia. Cheng states that Edward Tufte calls this graphic one of the “best statistical drawings ever created,” so Cheng conducted the data analysis to figure out why it is such a good graphic. The data analysis covers Napoleon and his troops’ journey into Russia and eventually Moscow in 1812, as the title indicates.</description>
+    </item>
+    
+    <item>
+      <title>Misunderstanding of p-values</title>
+      <link>/2019/10/misunderstanding-of-p-values/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/misunderstanding-of-p-values/</guid>
+      <description>This data study proves that some academics don’t know how p-values are significant. Get it? Significant? A group of students from the University of Valencia in Spain conducted a study to show the importance of the p-value in academic psychologist research. In their study, they wanted to see how often p-values are misinterpreted; by looking at the outcomes of a test given, they noticed that there are many ways to misinterpret p-values.</description>
     </item>
     
     <item>

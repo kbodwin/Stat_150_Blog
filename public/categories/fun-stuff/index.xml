@@ -6,10 +6,28 @@
     <description>Recent content in Fun Stuff on Stat 150 at Cal Poly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/fun-stuff/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cal Poly Not-Pro Tip: Waffles</title>
+      <link>/2019/11/cal-poly-not-pro-tip-waffles/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/cal-poly-not-pro-tip-waffles/</guid>
+      <description>At 805 Kitchen, to spice up your waffle, DO NOT grab toppings from the yogurt bar (chocolate chips, coconut flakes, etc) and add it into your waffle batter before cooking your waffle. There have been reports of severe allergic reactions where the ambulance has been required to come according to staff working there. If you want to up your waffle game, then please do it afterwards and simply add it to the finished waffle product.</description>
+    </item>
+    
+    <item>
+      <title>Cal Poly Not-Pro Tip: Waffles</title>
+      <link>/2019/11/cal-poly-not-pro-tip-waffles/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/cal-poly-not-pro-tip-waffles/</guid>
+      <description>At 805 Kitchen, to spice up your waffle, DO NOT grab toppings from the yogurt bar (chocolate chips, coconut flakes, etc) and add it into your waffle batter before cooking your waffle. There have been reports of severe allergic reactions where the ambulance has been required to come according to staff working there. If you want to up your waffle game, then please do it afterwards and simply add it to the finished waffle product.</description>
+    </item>
     
     <item>
       <title>Cal Poly Pro Tip: Shortcut</title>
@@ -29,17 +47,6 @@
       <description>“Most people use statistics the way a drunkard uses a lamp post: more for support than illumination”-Mark Twain
 “Statisticians, like artists, have the bad habit of falling in love with their models.”-George Box
 </description>
-    </item>
-    
-    <item>
-      <title>Cal Poly Pro Tip: Lost Items</title>
-      <link>/2019/10/cal-poly-pro-tip-lost-items/</link>
-      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/2019/10/cal-poly-pro-tip-lost-items/</guid>
-      <description>If you lose a personal item somewhere on campus, you can go to https://afd.calpoly.edu/facilities/services/lost-and-found and file a lost item report.
-If they do not have your item, seek out the head of whichever building you lost the item in.
-For example, if you lost an item in our Statistics classroom (Room 123A of building 38), you go to the ethics department office located south of our classroom on the first floor.</description>
     </item>
     
     <item>
@@ -99,6 +106,17 @@ A few times a year, I get asked to be a judge of student statistical projects in
 &lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Tweet of the Week: @drob</title>
+      <link>/1/01/tweet-of-the-week-drob/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1/01/tweet-of-the-week-drob/</guid>
+      <description>In this #tidytuesday screencast, I analyze a dataset of horror movie ratings, and use lasso regression to predict ratings based on genre, cast, and plot.
+What&#39;s 😱👍: Indian, animated, and drama films
+What&#39;s 🙄👎: Sharks and Eric Robertshttps://t.co/3qj7NoA4Pf #rstats 🧛♂️👻 pic.twitter.com/OBI6x1O2zX— David Robinson (@drob) October 22, 2019</description>
     </item>
     
   </channel>

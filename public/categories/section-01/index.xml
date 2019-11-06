@@ -6,10 +6,20 @@
     <description>Recent content in Section 01 on Stat 150 at Cal Poly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/section-01/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Is Statistics More Important Than Calculus?</title>
+      <link>/2019/11/is-statistics-more-important-than-calculus/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/is-statistics-more-important-than-calculus/</guid>
+      <description>Learning statistics should be prioritized before studying calculus.
+Ever wonder when calculus is actually going to be useful? Most schools design math classes in a way that builds up to the idea of calculus; calculus may not be useful for everyone. Arthur Benjamin, in his TED Talk “Teach Statistics Before Calculus,” advocates for placing priority on the education of statistics over calculus. Of course for students in the field of math, science, engineering, or economics, calculus is essential class to take, but others may find the study irrelevant in their daily lives.</description>
+    </item>
     
     <item>
       <title>Know Your Rights as a Test Subject</title>
@@ -18,6 +28,15 @@
       
       <guid>/2019/10/know-your-rights-as-a-test-subject/</guid>
       <description>While the advent of scientific experiments has provided countless contributions to mankind, it is important that ethics get highly considered before the conduction of such experiments. After numerous atrocities were committed during WWII including the use of human subjects, the Nuremberg code was drafted to impose guidelines upon physicians and scientists as to how to treat their subjects. The three main sections of this code include: the distinction between research and practice, a discussion of the three basic principles of ethics, and the applications of these principles.</description>
+    </item>
+    
+    <item>
+      <title>Medical Fraud</title>
+      <link>/2019/10/medical-fraud/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/medical-fraud/</guid>
+      <description>Have you ever read something that suspiciously links a certain medicine or food or something random to a serious medical condition? As patients, we’re taught that people in the medical field are trustworthy; however, some release very suspicious and questionable research conclusions that are complete frauds. John Carlisle is a statistical researcher and consultant anaesthetist working to help find and debunk fraud in medical research. In the following article, there is a conversation about major incidents of research frauds and how researchers like Carlisle are using statistics to seek out the red flags of sketchy research practices.</description>
     </item>
     
     <item>
@@ -49,6 +68,16 @@
 &lt;p&gt;&lt;img src=&#34;https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/sandra-bland-stanford-prison-experiment-and-opera-in-tijuana/@@images/f5196162-6ea3-4821-94d1-8ed2756ecd79.jpeg&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.vox.com/2018/6/13/17449118/stanford-prison-experiment-fraud-psychology-replication&#34;&gt;The Stanford Prison Experiment was massively influential. We just learned it was a fraud.&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Famous Historical Statistician: Florence Nightengale</title>
+      <link>/2019/10/famous-historical-statistician-florence-nightengale/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/famous-historical-statistician-florence-nightengale/</guid>
+      <description>“To understand God’s thoughts, we must understand statistics for these are the measure of His purpose” -Florence Nightengale
+For our famous statistician we researched Florence Nightengale. Florence was born in Florence, Italy in 1820. She used statistics to improve her practice of nursing and in doing so became one of the founders of modern nursing. She kept records of every one of all her patients was known for using effective graphical representations of her data.</description>
     </item>
     
     <item>
@@ -162,6 +191,17 @@
 
 &lt;p&gt;&lt;a href=&#34;https://theconversation.com/polish-village-hasnt-seen-a-boy-born-in-nearly-10-years-heres-how-that-computes-122176&#34;&gt;Link to Article&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Responsible Statistic Education and Common Misinterpretations</title>
+      <link>/2019/10/responsible-statistic-education-and-common-misinterpretations/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/responsible-statistic-education-and-common-misinterpretations/</guid>
+      <description>An understanding of statistics is necessary to be able to correctly interpret the data we see and understand it’s validity. However, there are many common misunderstandings surrounding statistics and probability. Without an understanding of the validity of findings, people, even those who have been taught introductory statistics, can be led to false conclusions with real world consequences.
+Responsible Statistic Education and Common Misinterpretations
+Statistics used to be a small area of study, reserved for researchers to analyze their results.</description>
     </item>
     
   </channel>

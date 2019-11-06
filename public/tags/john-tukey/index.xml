@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Tukey on Stat 150 at Cal Poly</title>
+    <link>/tags/john-tukey/</link>
+    <description>Recent content in John Tukey on Stat 150 at Cal Poly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/john-tukey/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>John Tukey</title>
+      <link>/2019/11/john-tukey/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/john-tukey/</guid>
+      <description>“Be approximately right rather than exactly wrong.”
+John Tukey was an American statistician of the mid 1900’s who played a significant role in introducing concepts and terminology used in modern statistics. Born in 1915, Tukey was homeschooled by both his parents who were teachers. He received a Bachelor’s Degree in chemistry at Brown University and a Master’s Degree a year later. He then attended Princeton University to study mathematics and obtained his Ph.</description>
+    </item>
+    
+  </channel>
+</rss>

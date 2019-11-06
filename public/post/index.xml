@@ -6,10 +6,80 @@
     <description>Recent content in Posts on Stat 150 at Cal Poly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cal Poly Not-Pro Tip: Waffles</title>
+      <link>/2019/11/cal-poly-not-pro-tip-waffles/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/cal-poly-not-pro-tip-waffles/</guid>
+      <description>At 805 Kitchen, to spice up your waffle, DO NOT grab toppings from the yogurt bar (chocolate chips, coconut flakes, etc) and add it into your waffle batter before cooking your waffle. There have been reports of severe allergic reactions where the ambulance has been required to come according to staff working there. If you want to up your waffle game, then please do it afterwards and simply add it to the finished waffle product.</description>
+    </item>
+    
+    <item>
+      <title>Cal Poly Not-Pro Tip: Waffles</title>
+      <link>/2019/11/cal-poly-not-pro-tip-waffles/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/cal-poly-not-pro-tip-waffles/</guid>
+      <description>At 805 Kitchen, to spice up your waffle, DO NOT grab toppings from the yogurt bar (chocolate chips, coconut flakes, etc) and add it into your waffle batter before cooking your waffle. There have been reports of severe allergic reactions where the ambulance has been required to come according to staff working there. If you want to up your waffle game, then please do it afterwards and simply add it to the finished waffle product.</description>
+    </item>
+    
+    <item>
+      <title>Daniela Witten</title>
+      <link>/2019/11/daniela-witten/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/daniela-witten/</guid>
+      <description>
+
+
+&lt;blockquote&gt;
+&lt;p&gt;“Banning p-values as a way to reduce irreproducibility in science is like banning strep tests as a way to reduce the prevalence of strep. As in, it does not work”
+- Daniela Witten&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Is Statistics More Important Than Calculus?</title>
+      <link>/2019/11/is-statistics-more-important-than-calculus/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/is-statistics-more-important-than-calculus/</guid>
+      <description>Learning statistics should be prioritized before studying calculus.
+Ever wonder when calculus is actually going to be useful? Most schools design math classes in a way that builds up to the idea of calculus; calculus may not be useful for everyone. Arthur Benjamin, in his TED Talk “Teach Statistics Before Calculus,” advocates for placing priority on the education of statistics over calculus. Of course for students in the field of math, science, engineering, or economics, calculus is essential class to take, but others may find the study irrelevant in their daily lives.</description>
+    </item>
+    
+    <item>
+      <title>John Tukey</title>
+      <link>/2019/11/john-tukey/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/john-tukey/</guid>
+      <description>“Be approximately right rather than exactly wrong.”
+John Tukey was an American statistician of the mid 1900’s who played a significant role in introducing concepts and terminology used in modern statistics. Born in 1915, Tukey was homeschooled by both his parents who were teachers. He received a Bachelor’s Degree in chemistry at Brown University and a Master’s Degree a year later. He then attended Princeton University to study mathematics and obtained his Ph.</description>
+    </item>
+    
+    <item>
+      <title>Statistics before Calculus?</title>
+      <link>/2019/11/statistics-before-calculus/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/statistics-before-calculus/</guid>
+      <description>
+
+
+&lt;div id=&#34;blurb&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Blurb&lt;/h2&gt;
+&lt;p&gt;In this TED talk, Professor Arthur Benjamin of Harvey Mudd University describes his thoughts on mathematics curriculum and how it’s attachment to calculus is somewhat archaic, and a newer more useful approach would be to focus on statistics and a more modern and concrete approach to mathematics using statistics and data.
+(&lt;a href=&#34;https://www.ted.com/talks/arthur_benjamin_s_formula_for_changing_math_education/transcript?language=en&#34; class=&#34;uri&#34;&gt;https://www.ted.com/talks/arthur_benjamin_s_formula_for_changing_math_education/transcript?language=en&lt;/a&gt;)
+</description>
+    </item>
     
     <item>
       <title>Cal Poly Pro Tip: Shortcut</title>
@@ -61,6 +131,15 @@
       
       <guid>/2019/10/know-your-rights-as-a-test-subject/</guid>
       <description>While the advent of scientific experiments has provided countless contributions to mankind, it is important that ethics get highly considered before the conduction of such experiments. After numerous atrocities were committed during WWII including the use of human subjects, the Nuremberg code was drafted to impose guidelines upon physicians and scientists as to how to treat their subjects. The three main sections of this code include: the distinction between research and practice, a discussion of the three basic principles of ethics, and the applications of these principles.</description>
+    </item>
+    
+    <item>
+      <title>Medical Fraud</title>
+      <link>/2019/10/medical-fraud/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/medical-fraud/</guid>
+      <description>Have you ever read something that suspiciously links a certain medicine or food or something random to a serious medical condition? As patients, we’re taught that people in the medical field are trustworthy; however, some release very suspicious and questionable research conclusions that are complete frauds. John Carlisle is a statistical researcher and consultant anaesthetist working to help find and debunk fraud in medical research. In the following article, there is a conversation about major incidents of research frauds and how researchers like Carlisle are using statistics to seek out the red flags of sketchy research practices.</description>
     </item>
     
     <item>
@@ -132,14 +211,13 @@ Of the numerous studies conducted over the past few decades, the Stanford Prison
     </item>
     
     <item>
-      <title>Cal Poly Pro Tip: Lost Items</title>
-      <link>/2019/10/cal-poly-pro-tip-lost-items/</link>
-      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      <title>Famous Historical Statistician: Florence Nightengale</title>
+      <link>/2019/10/famous-historical-statistician-florence-nightengale/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/10/cal-poly-pro-tip-lost-items/</guid>
-      <description>If you lose a personal item somewhere on campus, you can go to https://afd.calpoly.edu/facilities/services/lost-and-found and file a lost item report.
-If they do not have your item, seek out the head of whichever building you lost the item in.
-For example, if you lost an item in our Statistics classroom (Room 123A of building 38), you go to the ethics department office located south of our classroom on the first floor.</description>
+      <guid>/2019/10/famous-historical-statistician-florence-nightengale/</guid>
+      <description>“To understand God’s thoughts, we must understand statistics for these are the measure of His purpose” -Florence Nightengale
+For our famous statistician we researched Florence Nightengale. Florence was born in Florence, Italy in 1820. She used statistics to improve her practice of nursing and in doing so became one of the founders of modern nursing. She kept records of every one of all her patients was known for using effective graphical representations of her data.</description>
     </item>
     
     <item>
@@ -445,6 +523,15 @@ trouble by providing twelve rules in his article, How to Display Data Badly.&lt;
     </item>
     
     <item>
+      <title>Misunderstanding of p-values</title>
+      <link>/2019/10/misunderstanding-of-p-values/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/misunderstanding-of-p-values/</guid>
+      <description>This data study proves that some academics don’t know how p-values are significant. Get it? Significant? A group of students from the University of Valencia in Spain conducted a study to show the importance of the p-value in academic psychologist research. In their study, they wanted to see how often p-values are misinterpreted; by looking at the outcomes of a test given, they noticed that there are many ways to misinterpret p-values.</description>
+    </item>
+    
+    <item>
       <title>Null Results</title>
       <link>/2019/10/null-results/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
@@ -491,6 +578,17 @@ trouble by providing twelve rules in his article, How to Display Data Badly.&lt;
     </item>
     
     <item>
+      <title>Responsible Statistic Education and Common Misinterpretations</title>
+      <link>/2019/10/responsible-statistic-education-and-common-misinterpretations/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/responsible-statistic-education-and-common-misinterpretations/</guid>
+      <description>An understanding of statistics is necessary to be able to correctly interpret the data we see and understand it’s validity. However, there are many common misunderstandings surrounding statistics and probability. Without an understanding of the validity of findings, people, even those who have been taught introductory statistics, can be led to false conclusions with real world consequences.
+Responsible Statistic Education and Common Misinterpretations
+Statistics used to be a small area of study, reserved for researchers to analyze their results.</description>
+    </item>
+    
+    <item>
       <title>Tweets of the Week: @NateSilver</title>
       <link>/2019/10/tweets-of-the-week-natesilver/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
@@ -507,6 +605,17 @@ A few times a year, I get asked to be a judge of student statistical projects in
 &lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Tweet of the Week: @drob</title>
+      <link>/1/01/tweet-of-the-week-drob/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1/01/tweet-of-the-week-drob/</guid>
+      <description>In this #tidytuesday screencast, I analyze a dataset of horror movie ratings, and use lasso regression to predict ratings based on genre, cast, and plot.
+What&#39;s 😱👍: Indian, animated, and drama films
+What&#39;s 🙄👎: Sharks and Eric Robertshttps://t.co/3qj7NoA4Pf #rstats 🧛♂️👻 pic.twitter.com/OBI6x1O2zX— David Robinson (@drob) October 22, 2019</description>
     </item>
     
   </channel>

@@ -6,10 +6,19 @@
     <description>Recent content in News on Stat 150 at Cal Poly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Medical Fraud</title>
+      <link>/2019/10/medical-fraud/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/medical-fraud/</guid>
+      <description>Have you ever read something that suspiciously links a certain medicine or food or something random to a serious medical condition? As patients, we’re taught that people in the medical field are trustworthy; however, some release very suspicious and questionable research conclusions that are complete frauds. John Carlisle is a statistical researcher and consultant anaesthetist working to help find and debunk fraud in medical research. In the following article, there is a conversation about major incidents of research frauds and how researchers like Carlisle are using statistics to seek out the red flags of sketchy research practices.</description>
+    </item>
     
     <item>
       <title>Polish Village Hasn’t Seen A Boy Born In Nearly 10 Years</title>

@@ -3,15 +3,118 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/categories/article-summary/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/article-summary/</loc>
-    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/2019/11/cal-poly-not-pro-tip-waffles/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/11/cal-poly-not-pro-tip-waffles/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/cal-poly-tip/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cal-poly-tip/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/daniela-witten/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/11/daniela-witten/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/famous-historical-statistician/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/famous-statisticians/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/fun-stuff/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/11/is-statistics-more-important-than-calculus/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/john-tukey/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/11/john-tukey/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/section-01/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/section-01/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/section-02/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/section-02/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/11/statistics-before-calculus/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ted/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -20,27 +123,8 @@
   </url>
   
   <url>
-    <loc>/categories/cal-poly-tip/</loc>
-    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/cal-poly-tip/</loc>
-    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/clinical-trials/</loc>
     <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -51,42 +135,26 @@
   <url>
     <loc>/categories/data-analysis/</loc>
     <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/data-study/</loc>
     <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/ethics-topic/</loc>
     <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/famous-statisticians/</loc>
-    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/florence-nightingale/</loc>
     <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/2019/10/florence-nightingale/</loc>
     <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/fun-stuff/</loc>
-    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -97,7 +165,6 @@
   <url>
     <loc>/tags/human-subjects/</loc>
     <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -106,13 +173,27 @@
   </url>
   
   <url>
+    <loc>/2019/10/medical-fraud/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/medical-research/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/nate-silver/</loc>
     <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/2019/10/nate-silver/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/news/</loc>
     <lastmod>2019-10-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -122,21 +203,13 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/tags/quote/</loc>
     <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/quote/</loc>
     <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/quote/</loc>
-    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -145,45 +218,13 @@
   </url>
   
   <url>
-    <loc>/categories/section-01/</loc>
-    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/section-01/</loc>
-    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/section-02/</loc>
-    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/section-02/</loc>
-    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/stats-in-the-news/</loc>
     <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/tags/stats-in-the-news/</loc>
     <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -199,17 +240,25 @@
   <url>
     <loc>/tags/zimbardo/</loc>
     <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/2019/10/famous-historical-statistician-florence-nightengale/</loc>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/famous-historical-statisticians/</loc>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/florence-nightengale/</loc>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/article/</loc>
-    <lastmod>2019-10-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/2019/10/cal-poly-pro-tip-lost-items/</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -231,19 +280,21 @@
   <url>
     <loc>/tags/data-privacy-in-the-internet-age/</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/ethics-study/</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/famous-modern-statisticians/</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/p-hacking/</loc>
+    <lastmod>2019-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -254,7 +305,6 @@
   <url>
     <loc>/tags/ronald-fisher/</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -280,25 +330,21 @@
   <url>
     <loc>/tags/tuskegee/</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/tuskegee-syphilis-experiment/</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/tweets/</loc>
-    <lastmod>2019-10-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/tweets/</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/tweets/</loc>
+    <lastmod>2019-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -314,13 +360,11 @@
   <url>
     <loc>/tags/what-percentage-of-americans-vape/</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/xiao-li-meng/</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -331,12 +375,6 @@
   <url>
     <loc>/2019/10/xiao-li-meng/</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/p-hacking/</loc>
-    <lastmod>2019-10-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -347,7 +385,6 @@
   <url>
     <loc>/categories/ethics/</loc>
     <lastmod>2019-10-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -358,7 +395,6 @@
   <url>
     <loc>/tags/gertrude-cox/</loc>
     <lastmod>2019-10-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -374,7 +410,6 @@
   <url>
     <loc>/tags/hadley-wickham/</loc>
     <lastmod>2019-10-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -408,9 +443,8 @@
   </url>
   
   <url>
-    <loc>/categories/news/</loc>
+    <loc>/2019/10/misunderstanding-of-p-values/</loc>
     <lastmod>2019-10-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -426,7 +460,6 @@
   <url>
     <loc>/tags/p-values/</loc>
     <lastmod>2019-10-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -437,7 +470,6 @@
   <url>
     <loc>/tags/probability/</loc>
     <lastmod>2019-10-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -446,9 +478,18 @@
   </url>
   
   <url>
+    <loc>/tags/responsible-statistic-education-and-common-misinterpretations/</loc>
+    <lastmod>2019-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/10/responsible-statistic-education-and-common-misinterpretations/</loc>
+    <lastmod>2019-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/rstudio/</loc>
     <lastmod>2019-10-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -459,12 +500,14 @@
   <url>
     <loc>/tags/visualization/</loc>
     <lastmod>2019-10-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/archives/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/1/01/tweet-of-the-week-drob/</loc>
   </url>
   
 </urlset>
