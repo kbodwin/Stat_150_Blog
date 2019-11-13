@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Allan Rossman on Stat 150 at Cal Poly</title>
+    <link>/tags/allan-rossman/</link>
+    <description>Recent content in Allan Rossman on Stat 150 at Cal Poly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/allan-rossman/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Allan Rossman</title>
+      <link>/2019/11/allan-rossman/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/allan-rossman/</guid>
+      <description>
+
+
+&lt;p&gt;Teaser text or links here.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Statistics students at Cal Poly have long known that they were the cool kids on campus, but it’s nice to see a major newspaper broadcast this news to the rest of the world.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://statweb.calpoly.edu/rossman&#34;&gt;This is a link to his personal website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blog 5</title>
+      <link>/2019/11/blog-5/</link>
+      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/blog-5/</guid>
+      <description>“My bet is that standard deviation makes students shiver with fear and cringe with distaste more than any other two-word term, perhaps even long after they have completed their statistics course.”
+Allan Rossman was born in Pennsylvania and grew up in Ellwood City. He went to college at Geneva College in Beaver Falls and received his Ph.D. in Statistics from Carnegie Mellon University. He taught at Dickinson College before moving to California where he has taught statistics at Cal Poly SLO since 2001.</description>
+    </item>
+    
+  </channel>
+</rss>

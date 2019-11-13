@@ -1,0 +1,31 @@
+---
+title: "AI Machine Learning Biases"
+author: "dimply_limpet"
+date: 2019-11-11
+categories: ["Section 02", "Ethics Issue"]
+tags: ["Section 02", "Ethics Issue", "AI Bias"]
+thumbnailImage: https://tinyurl.com/AIthumbnail
+thumbnailImagePosition: left
+---
+
+> Artificial intelligence (AI) appears in our daily lives through the ads that appear on websites to filtering out spam in emails. However AI can also be used for purposes with larger impacts such as assessing a criminal’s likelihood to recommit a crime or screening applications for positions or limited numbered places, like loans. So, what prevents machines and algorithms from giving preference to factors like certain groups of people? Bias from human creators and coders can make its way into machine algorithms to create machine biases. Keep reading to explore how machine learning bias can affect internet users and solutions to this increasingly important issue.
+
+(https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1042&context=jj_etds)
+
+<!--more-->
+
+Machine learning (ML) algorithms have become a part of everyday life as more people are connected to the internet. Machine learning is a branch of Artificial Intelligence (AI) where the machine is capable of learning and integrating some data into it’s algorithmic function without actually being programmed. An ethical issue that arises with machine learning is machine bias. ‘Bias’ when referring to machine bias is “the skewing of data to be biased according to accepted normative, legal, or moral principles.” Machine bias can result in negatively impacting someone’s life whether the machine has a type A or B application. 
+
+A type A application refers to a machine that has more direct and immediate consequences such as auto-pilot cars and slaughter bots. Due to the moral nature of their functions, machines that acquire a type A application necessitate bias. A type B application refers to a machine that has more hypothetical long term impacts such as facial recognition, emotional recognition, and word embedding. Differences such as gender and ethnicity are challenged by machines as a bias to the genders or ethnicities that are stereotypically better are created. Gender biases can confound ML algorithms and affect the ways that different people experience technology and the internet. In a study by AdFisher, it was found that men were six times more likely than women to see ads for high paying jobs on Google. 
+
+One way that machine bias has been solved is the use of machine ethics. Machine ethics have existed since the birth of technology, but were commonly disregarded until recently. Machine ethics is a relatively new term that has existed since the birth of artificial intelligence. James Moor, a pioneer for machine ethics, defines implicit ethical agents and explicit ethical agents. Implicit ethical agents are ethical because of how they are programmed and do what they are used to do, such as auto-pilot on a plane. Explicit ethical agents, also known as Artificial Ethical Agents (AEA), use three ethical theories in order to make ethical decisions even in unfamiliar circumstances. While using machine ethics is effective, every case is different. There is no one ethics code that towers over everything. An example of a popular method used in ethics is validity testing for algorithms. 
+
+There are four types of solutions to solve machine bias: technical solutions, political solutions, social solutions, philosophical solutions.  Technological solutions refers to programming ethics into machine learning algorithms and using models that can correct bias. In other words, we can use coding to reduce the overall error. An example is for statistical bias which can be reduced using error-correcting output coding (ECOC). Political solutions refer to political figures taking action. An example of this is the EU passing the GDPR, or the General Data Protection Regulation. Social solutions include the publications of books such as “Weapons of Math Destruction”, along with the use of methods such as crowdsourcing ethics. Lastly, philosophical ethics refers to the higher level questions than simply just asking about the bias in technology.
+
+While the issue of ethics in AI bias is complex, machine ethics can be a revolutionary concept if fully recognized.
+
+
+For more information on why AI bias occurs, click the link to read more:
+
+https://www.technologyreview.com/s/612876/this-is-how-ai-bias-really-happensand-why-its-so-hard-to-fix/
+

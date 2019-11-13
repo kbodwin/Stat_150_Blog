@@ -6,10 +6,27 @@
     <description>Recent content in Famous Statisticians on Stat 150 at Cal Poly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/famous-statisticians/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Allan Rossman</title>
+      <link>/2019/11/allan-rossman/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/allan-rossman/</guid>
+      <description>
+
+
+&lt;p&gt;Teaser text or links here.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Statistics students at Cal Poly have long known that they were the cool kids on campus, but it’s nice to see a major newspaper broadcast this news to the rest of the world.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://statweb.calpoly.edu/rossman&#34;&gt;This is a link to his personal website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daniela Witten</title>
@@ -23,6 +40,22 @@
 &lt;blockquote&gt;
 &lt;p&gt;“Banning p-values as a way to reduce irreproducibility in science is like banning strep tests as a way to reduce the prevalence of strep. As in, it does not work”
 - Daniela Witten&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>John Tukey</title>
+      <link>/2019/11/john-tukey/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/john-tukey/</guid>
+      <description>
+
+
+&lt;blockquote&gt;
+&lt;p&gt;“The best thing about being a statistician is that you get to play in everyone’s backyard.”
+- John Tukey&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

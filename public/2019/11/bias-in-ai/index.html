@@ -1,0 +1,572 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Hugo 0.58.3 with theme Tranquilpeak 0.4.7-BETA">
+<meta name="author" content="Statistics 150: The Blog">
+<meta name="keywords" content="">
+<meta name="description" content="We put the artificial in artificial intelligence when it comes to statistics. We program robots to give us what we want, notrepresenting our entire population. Let’s use Aritificial Intelligence ethically and not incorporatebias in our alogorithms. Who knows, maybe in the future robots will keep an eye on us, detecting our flaws in bias.
+AI algorithms, also known as deep learning, find patterns in the data we collect.">
+
+
+<meta property="og:description" content="We put the artificial in artificial intelligence when it comes to statistics. We program robots to give us what we want, notrepresenting our entire population. Let’s use Aritificial Intelligence ethically and not incorporatebias in our alogorithms. Who knows, maybe in the future robots will keep an eye on us, detecting our flaws in bias.
+AI algorithms, also known as deep learning, find patterns in the data we collect.">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Bias in AI">
+<meta name="twitter:title" content="Bias in AI">
+<meta property="og:url" content="/2019/11/bias-in-ai/">
+<meta property="twitter:url" content="/2019/11/bias-in-ai/">
+<meta property="og:site_name" content="Stat 150 at Cal Poly">
+<meta property="og:description" content="We put the artificial in artificial intelligence when it comes to statistics. We program robots to give us what we want, notrepresenting our entire population. Let’s use Aritificial Intelligence ethically and not incorporatebias in our alogorithms. Who knows, maybe in the future robots will keep an eye on us, detecting our flaws in bias.
+AI algorithms, also known as deep learning, find patterns in the data we collect.">
+<meta name="twitter:description" content="We put the artificial in artificial intelligence when it comes to statistics. We program robots to give us what we want, notrepresenting our entire population. Let’s use Aritificial Intelligence ethically and not incorporatebias in our alogorithms. Who knows, maybe in the future robots will keep an eye on us, detecting our flaws in bias.
+AI algorithms, also known as deep learning, find patterns in the data we collect.">
+<meta property="og:locale" content="en-us">
+
+  
+    <meta property="article:published_time" content="2019-11-11T00:00:00">
+  
+  
+    <meta property="article:modified_time" content="2019-11-11T00:00:00">
+  
+  
+  
+    
+      <meta property="article:section" content="Section 02">
+    
+      <meta property="article:section" content="Article Summary">
+    
+  
+  
+    
+      <meta property="article:tag" content="Section 02">
+    
+      <meta property="article:tag" content="Bias in AI">
+    
+  
+
+
+<meta name="twitter:card" content="summary">
+
+
+
+
+
+
+
+  <meta property="og:image" content="https://miro.medium.com/max/5046/1*ZPSF6ifu1rIj-NwWlpH3kw.jpeg">
+  <meta property="twitter:image" content="https://miro.medium.com/max/5046/1*ZPSF6ifu1rIj-NwWlpH3kw.jpeg">
+
+
+
+
+
+  <meta property="og:image" content="/img/cp_logo.jpg">
+  <meta property="twitter:image" content="/img/cp_logo.jpg">
+
+
+    <title>Bias in AI</title>
+
+    <link rel="icon" href="/favicon.png">
+    
+
+    
+
+    <link rel="canonical" href="/2019/11/bias-in-ai/">
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.min.css" integrity="sha256-vuXZ9LGmmwtjqFX1F+EKin1ThZMub58gKULUyf0qECk=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.css" integrity="sha256-SEa4XYAHihTcEP1f5gARTB2K26Uk8PsndQYHQC1f4jU=" crossorigin="anonymous" />
+    
+    
+    <link rel="stylesheet" href="/css/style-twzjdbqhmnnacqs0pwwdzcdbt8yhv8giawvjqjmyfoqnvazl0dalmnhdkvp7.min.css" />
+    
+    
+
+    
+      
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="4">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="/">Stat 150 at Cal Poly</a>
+  </div>
+  
+    
+      <a class="header-right-picture "
+         href="/#about">
+    
+    
+    
+      
+        <img class="header-picture" src="/img/cp_logo.jpg" alt="Author&#39;s picture" />
+      
+    
+    </a>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="4">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="/#about">
+          <img class="sidebar-profile-picture" src="/img/cp_logo.jpg" alt="Author&#39;s picture" />
+        </a>
+        <h4 class="sidebar-profile-name">Statistics 150: The Blog</h4>
+        
+          <h5 class="sidebar-profile-bio">A collective blog from the future statisticians and data scientists of Cal Poly.</h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="/">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-home"></i>
+      
+      <span class="sidebar-button-desc">Home</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="/categories">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-bookmark"></i>
+      
+      <span class="sidebar-button-desc">Categories</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="/tags">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
+      
+      <span class="sidebar-button-desc">Tags</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="/archives">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-archive"></i>
+      
+      <span class="sidebar-button-desc">Archives</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="/#about">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-question"></i>
+      
+      <span class="sidebar-button-desc">About</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="/index.xml">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-rss"></i>
+      
+      <span class="sidebar-button-desc">RSS</span>
+    </a>
+  </li>
+
+
+    </ul>
+  </div>
+</nav>
+
+      
+
+      <div id="main" data-behavior="4"
+        class="
+               hasCoverMetaIn
+               ">
+        <article class="post" itemscope itemType="http://schema.org/BlogPosting">
+          
+          
+            <div class="post-header main-content-wrap text-left">
+  
+    <h1 class="post-title" itemprop="headline">
+      Bias in AI
+    </h1>
+  
+  
+  <div class="postShorten-meta post-meta">
+    
+      <time itemprop="datePublished" datetime="2019-11-11T00:00:00Z">
+        
+  November 11, 2019
+
+      </time>
+    
+    
+  
+  
+    <span>in</span>
+    
+      <a class="category-link" href="/categories/section-02">Section 02</a>, 
+    
+      <a class="category-link" href="/categories/article-summary">Article Summary</a>
+    
+  
+
+  </div>
+
+</div>
+          
+          <div class="post-content markdown" itemprop="articleBody">
+            <div class="main-content-wrap">
+               
+
+
+
+<p>We put the artificial in artificial intelligence when it comes to statistics. We program robots to give us what we want, not
+representing our entire population. Let’s use Aritificial Intelligence ethically and not incorporate
+bias in our alogorithms. Who knows, maybe in the future robots will keep an eye on us, detecting our flaws in bias.</p>
+<p><img src="https://miro.medium.com/max/5046/1*ZPSF6ifu1rIj-NwWlpH3kw.jpeg" /></p>
+<p>AI algorithms, also known as deep learning, find patterns in the data we collect. Technologies like this are flawed with biases which we tend to ignore. The biases can be implemented at any time, ranging from when the data is collected to other stages in the deep learning process.</p>
+<p>The first AI bias is known as framing the problem. This happens when computer scientists are deciding what they want the deep learning model to achieve. Once they have decided this, they tweak the definition of what they are finding in order to satisfy their goal. For example, say the model is trying to find the nutritional facts of an apple for a company. If you only include the healthy ingredients such as protein, while ignoring the sugar and other unhealthy ingredients in the food, you are redefining the word nutritional facts as healthy facts about the apple. As a result, the apple would sell for the company because it’s healthy, making the model for business purposes rather than for a fair, overall assessment of the apple’s ingredients.</p>
+<p>The way we collect data may also increase bias in the deep learning process. The first includes the data not representing the total population. It happens when a group of people’s opinions or votes are not taken into account. Furthermore, the bias could reflects existing prejudices. This was seen by Amazon when they realized their recruiting tool dismissed female candidates because it was trained on historical hiring decisions, which favored men over women. It was told in an article by Jeffery Danstin where he explained how Amazon’s computer models were trained to vet applicants by observing patterns in resumes submitted to the company over a 10-year period. Most came from men, a reflection of male dominance across the tech industry.</p>
+<p>The last type of bias happens when you prepare the data and choose what you want the algorithm to consider. An example could be seen in Amazon’s recruiting tool where they would consider the applicant’s gender, education level, and years of experience more heavily. This is what people call the “art” of deep learning: choosing which attributes to consider or ignore which significantly influences your model’s prediction accuracy.</p>
+<p>The bias is very difficult to fix. The first main reason is due to the unknown use of bias. Bias isn’t always obvious during a model’s construction because you may not realize the future impacts of your data and choices until much later. This was seen with Amazon’s recruiting technology when they didn’t know it was biased and it’s technology was geared more toward hiring men over women.</p>
+<p>Another issue is that it is difficult to design a model which is applied to groups of people in different contexts. For example, it’s hard to design a fair computer model in California which would be applicable in Georgia due to the difference in the geographical areas. For instance, if you are designing a model for the greatest economical problems in the country, the problems would be different for California as compared to Georgia. Taking into account all these different people is difficult to do.</p>
+<p>The last issue includes what the exact definition of fairness is. Fairness in computer science has to be defined in mathematical terms, like balancing the false positive and false negative rates of a prediction system. There are many different mathematical definitions of fairness that are also mutually exclusive. For example, should the same proportion of black and white individuals should get high risk assessment scores? Or that the same level of risk should result in the same score regardless of race? It’s impossible to fulfill both definitions at the same time. As you can see, the ambiguity of the word “fair” is hard to comprehend since we each may have a different definition to it.</p>
+<p>Although the increase of bias is concerning, AI researchers are trying to fix these problems. They are trying to make algorithms to detect hidden biases. However, the definition of fairness and fixing discrimination in algorithmic systems is a long term issue and is still a work in progress in our AI society.</p>
+<p><a href="https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G" class="uri">https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G</a>
+(Amazon’s AI Recruiting technology’s problem)</p>
+
+              
+            </div>
+          </div>
+          <div id="post-footer" class="post-footer main-content-wrap">
+            
+              
+                
+                
+                  <div class="post-footer-tags">
+                    <span class="text-color-light text-small">TAGGED IN</span><br/>
+                    
+  <a class="tag tag--primary tag--small" href="/tags/section-02/">Section 02</a>
+
+  <a class="tag tag--primary tag--small" href="/tags/bias-in-ai/">Bias in AI</a>
+
+                  </div>
+                
+              
+            
+            <div class="post-actions-wrap">
+  
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="/2019/11/allan-rossman/" data-tooltip="Allan Rossman">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="/2019/11/bias-in-ai/" data-tooltip="Bias in AI">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=/2019/11/bias-in-ai/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=/2019/11/bias-in-ai/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=/2019/11/bias-in-ai/">
+              <i class="fa fa-google-plus"></i>
+            </a>
+          </li>
+        
+      
+      
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  
+</div>
+
+            
+              
+                <div id="disqus_thread">
+  <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+              
+            
+          </div>
+        </article>
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2019 Statistics 150: The Blog. All Rights Reserved
+  </span>
+</footer>
+
+      </div>
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="4">
+        <div class="post-actions-wrap">
+  
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="/2019/11/allan-rossman/" data-tooltip="Allan Rossman">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="/2019/11/bias-in-ai/" data-tooltip="Bias in AI">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=/2019/11/bias-in-ai/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=/2019/11/bias-in-ai/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=/2019/11/bias-in-ai/">
+              <i class="fa fa-google-plus"></i>
+            </a>
+          </li>
+        
+      
+      
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  
+</div>
+
+      </div>
+      <div id="share-options-bar" class="share-options-bar" data-behavior="4">
+  <i id="btn-close-shareoptions" class="fa fa-close"></i>
+  <ul class="share-options">
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=%2F2019%2F11%2Fbias-in-ai%2F">
+          <i class="fa fa-facebook-official"></i><span>Share on Facebook</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=%2F2019%2F11%2Fbias-in-ai%2F">
+          <i class="fa fa-twitter"></i><span>Share on Twitter</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://plus.google.com/share?url=%2F2019%2F11%2Fbias-in-ai%2F">
+          <i class="fa fa-google-plus"></i><span>Share on Google&#43;</span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-remove"></i>
+    </div>
+    
+      <img id="about-card-picture" src="/img/cp_logo.jpg" alt="Author&#39;s picture" />
+    
+    <h4 id="about-card-name">Statistics 150: The Blog</h4>
+    
+      <div id="about-card-bio">A collective blog from the future statisticians and data scientists of Cal Poly.</div>
+    
+    
+    
+      <div id="about-card-location">
+        <i class="fa fa-map-marker"></i>
+        <br/>
+        San Luis Obispo
+      </div>
+    
+  </div>
+</div>
+
+    
+
+    
+  
+    
+      <div id="cover" style="background-image:url('/img/calpoly2.jpg');"></div>
+    
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.7/js/jquery.fancybox.min.js" integrity="sha256-GEAnjcTqVP+vBp3SSc8bEDQqvWAZMiHyUSIorrWwH50=" crossorigin="anonymous"></script>
+
+
+<script src="/js/script-pcw6v3xilnxydl1vddzazdverrnn9ctynvnxgwho987mfyqkuylcb1nlt.min.js"></script>
+
+
+<script lang="javascript">
+window.onload = updateMinWidth;
+window.onresize = updateMinWidth;
+document.getElementById("sidebar").addEventListener("transitionend", updateMinWidth);
+function updateMinWidth() {
+  var sidebar = document.getElementById("sidebar");
+  var main = document.getElementById("main");
+  main.style.minWidth = "";
+  var w1 = getComputedStyle(main).getPropertyValue("min-width");
+  var w2 = getComputedStyle(sidebar).getPropertyValue("width");
+  var w3 = getComputedStyle(sidebar).getPropertyValue("left");
+  main.style.minWidth = `calc(${w1} - ${w2} - ${w3})`;
+}
+</script>
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight > code, pre > code').each(function(i, block) {
+    if (!$(this).hasClass('codeblock')) {
+      $(this).addClass('codeblock');
+    }
+    hljs.highlightBlock(block);
+  });
+});
+</script>
+
+
+  
+    
+      <script>
+        var disqus_config = function () {
+          this.page.url = '\/2019\/11\/bias-in-ai\/';
+          
+            this.page.identifier = '\/2019\/11\/bias-in-ai\/'
+          
+        };
+        (function() {
+          
+          
+          if (window.location.hostname == "localhost") {
+            return;
+          }
+          var d = document, s = d.createElement('script');
+          var disqus_shortname = 'hugo-tranquilpeak-theme';
+          s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+
+          s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+        })();
+      </script>
+    
+  
+
+
+
+
+    
+  </body>
+</html>
+

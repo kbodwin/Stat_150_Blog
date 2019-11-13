@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Famous Modern Statistician on Stat 150 at Cal Poly</title>
+    <link>/categories/famous-modern-statistician/</link>
+    <description>Recent content in Famous Modern Statistician on Stat 150 at Cal Poly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/famous-modern-statistician/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog 5</title>
+      <link>/2019/11/blog-5/</link>
+      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/blog-5/</guid>
+      <description>“My bet is that standard deviation makes students shiver with fear and cringe with distaste more than any other two-word term, perhaps even long after they have completed their statistics course.”
+Allan Rossman was born in Pennsylvania and grew up in Ellwood City. He went to college at Geneva College in Beaver Falls and received his Ph.D. in Statistics from Carnegie Mellon University. He taught at Dickinson College before moving to California where he has taught statistics at Cal Poly SLO since 2001.</description>
+    </item>
+    
+  </channel>
+</rss>

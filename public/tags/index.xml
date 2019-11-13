@@ -6,17 +6,107 @@
     <description>Recent content in Tags on Stat 150 at Cal Poly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>AI Bias</title>
+      <link>/tags/ai-bias/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ai-bias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Allan Rossman</title>
+      <link>/tags/allan-rossman/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/allan-rossman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bias in AI</title>
+      <link>/tags/bias-in-ai/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/bias-in-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cal Poly Tip</title>
       <link>/tags/cal-poly-tip/</link>
-      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/cal-poly-tip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethics Issue</title>
+      <link>/tags/ethics-issue/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ethics-issue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holiday Travel</title>
+      <link>/tags/holiday-travel/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/holiday-travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quote</title>
+      <link>/tags/quote/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/quote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Section 01</title>
+      <link>/tags/section-01/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/section-01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Section 02</title>
+      <link>/tags/section-02/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/section-02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tweets</title>
+      <link>/tags/tweets/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tweets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>William Gosset</title>
+      <link>/tags/william-gosset/</link>
+      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/william-gosset/</guid>
       <description></description>
     </item>
     
@@ -35,24 +125,6 @@
       <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/john-tukey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Section 01</title>
-      <link>/tags/section-01/</link>
-      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/section-01/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Section 02</title>
-      <link>/tags/section-02/</link>
-      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/section-02/</guid>
       <description></description>
     </item>
     
@@ -107,15 +179,6 @@
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/nate-silver/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quote</title>
-      <link>/tags/quote/</link>
-      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/quote/</guid>
       <description></description>
     </item>
     
@@ -188,15 +251,6 @@
       <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/tuskegee-syphilis-experiment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tweets</title>
-      <link>/tags/tweets/</link>
-      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/tweets/</guid>
       <description></description>
     </item>
     
@@ -278,6 +332,15 @@
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bay Area Housing Market</title>
+      <link>/tags/bay-area-housing-market/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/bay-area-housing-market/</guid>
       <description></description>
     </item>
     

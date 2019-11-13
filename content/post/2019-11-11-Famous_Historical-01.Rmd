@@ -1,0 +1,28 @@
+---
+title: "How a Guiness Beer Brewer Created T-Tests"
+author: "viral_bluefish"
+date: '2019-11-10'
+categories: ["Section 01", "Famous Historical Statisticians"]
+tags: ["Section 01", "William Gosset"]
+thumbnailImage: https://upload.wikimedia.org/wikipedia/commons/4/42/William_Sealy_Gosset.jpg
+thumbnailImagePosition: left
+---
+
+> "The rule of law can be wiped out in one misguided, however, well intentioned, generation"
+> -William Gosset
+
+
+     Although William Sealy Gosset is one of the least known contributors to modern statistics, his work is still widely referenced today. He was born in Canterbury, England on June 13, 1876 to Agnes Sealy Vidal and Colonel Frederic Gosset. Gosset attended Winchester College before studying chemistry and mathematics at Oxford. At the age of 23, he graduated from Oxford and moved to Dublin to work at Guinness — or Arthur Guinness & Son, as it was known back then. He is the main contributor behind Guinness’s popularity and distinctive taste. Gosset was involved in the quality control of the barley for the production of beer. Guiness looked to maximize profits by using variety of barley with the highest yield.
+    
+    	Normally, we would say “collect 2 samples, run a statistical hypothesis test, and be done with it.” However, in the early 1900’s, and statistics was not well developed; statistical hypothetical tests only existed for very large samples, so performing this test would require  growing large quantities of barley. Gosset formalized the continuous probability distribution when estimating the mean of normally distributed populations for a small sample size. He calculated the likeliness that the mean of one sample is equal to another, even with small sample sizes.
+    	
+	   Gosset wanted to publish his findings, but another Guinness employee had accidentally leaked company secrets in a paper. The company agree to publish only if he used a pseudonym. In March 1908, Gosset used the pseudonym of “Student”  for his paper The probable error of a mean. His distribution is more commonly known as the T distribution.
+	   
+	   
+  	This distribution is commonly used throughout statistics worldwide and dramatically improved data analysis. It truly is a tragedy that the man behind this amazing statistical tool was unknown for so long.
+	
+	  Gosset died in 1937 of a heart attack after moving to London in 1935.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/William_Gosset_plaque_in_Guinness_storehouse_tour%2C_Ireland.jpg/220px-William_Gosset_plaque_in_Guinness_storehouse_tour%2C_Ireland.jpg)  
+ 
+ 

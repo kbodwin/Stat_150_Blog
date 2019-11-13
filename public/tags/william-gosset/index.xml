@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>William Gosset on Stat 150 at Cal Poly</title>
+    <link>/tags/william-gosset/</link>
+    <description>Recent content in William Gosset on Stat 150 at Cal Poly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/william-gosset/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How a Guiness Beer Brewer Created T-Tests</title>
+      <link>/2019/11/how-a-guiness-beer-brewer-created-t-tests/</link>
+      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/how-a-guiness-beer-brewer-created-t-tests/</guid>
+      <description>“The rule of law can be wiped out in one misguided, however, well intentioned, generation”-William Gosset
+ Although William Sealy Gosset is one of the least known contributors to modern statistics, his work is still widely referenced today. He was born in Canterbury, England on June 13, 1876 to Agnes Sealy Vidal and Colonel Frederic Gosset. Gosset attended Winchester College before studying chemistry and mathematics at Oxford.</description>
+    </item>
+    
+  </channel>
+</rss>

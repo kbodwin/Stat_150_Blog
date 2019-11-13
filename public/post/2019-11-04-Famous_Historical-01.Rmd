@@ -1,0 +1,20 @@
+---
+title: "John Tukey"
+author: "peewee_ocelots"
+date: 2019-11-04
+categories: ["Section 01", "Famous Statisticians"]
+tags: ["Section 01", "John Tukey"]
+thumbnailImage: https://images.app.goo.gl/szSAHXG173AY73j58
+thumbnailImagePosition: left
+---
+
+> "The best thing about being a statistician is that you get to play in everyone's backyard." 
+> - John Tukey
+
+<!--more-->
+
+Born June 16, 1915 in Massachusetts, John Wilder Tukey exhibited great potential to learn as a child. Because of this, his parents, who were teachers, decided to teach him at home all the way up until college. And from then on Tukey went on to get a master's degree in chemistry at Brown University, and a doctorate in mathematics at Princeton University. By the time he graduated from Princeton, he began to teach there as an instructor. 
+At Princeton, Tukey founded the Department of Statistics in 1965. That was the same year when he developed the fast Fourier transform algorithm that helped simplify the Fourier series. Later, he would also contribute to important ways of visualizing data, such as the box-and-whisker plot, the stem-and-leaf diagram, and Tukey’s paired comparisons. Tukey also made contributions to computer science, coining the terms “software” and “bit” (binary digit). 
+Tukey lived a long life when he died July 26, 2000. Throughout his life he received multiple awards such as being the first recipient of the Samuel S. Wilks Award of the American Statistical Association in 1965, and the National Medal of Science in 1973. Aside from all his work in statistics and engineering, he was known for his passions in folk dancing and collecting murder mystery novels. 
+
+![]https://images.app.goo.gl/sNKbTajMwzCk2y5h6

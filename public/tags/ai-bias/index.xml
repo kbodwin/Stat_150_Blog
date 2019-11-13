@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Bias on Stat 150 at Cal Poly</title>
+    <link>/tags/ai-bias/</link>
+    <description>Recent content in AI Bias on Stat 150 at Cal Poly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ai-bias/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AI Machine Learning Biases</title>
+      <link>/2019/11/ai-machine-learning-biases/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/ai-machine-learning-biases/</guid>
+      <description>
+
+
+&lt;blockquote&gt;
+&lt;p&gt;Artificial intelligence (AI) appears in our daily lives through the ads that appear on websites to filtering out spam in emails. However AI can also be used for purposes with larger impacts such as assessing a criminal’s likelihood to recommit a crime or screening applications for positions or limited numbered places, like loans. So, what prevents machines and algorithms from giving preference to factors like certain groups of people? Bias from human creators and coders can make its way into machine algorithms to create machine biases. Keep reading to explore how machine learning bias can affect internet users and solutions to this increasingly important issue.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;(&lt;a href=&#34;https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1042&amp;amp;context=jj_etds&#34; class=&#34;uri&#34;&gt;https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1042&amp;amp;context=jj_etds&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
