@@ -1,0 +1,21 @@
+---
+title: "Have we become too paranoid about mass shootings?"
+author: "Peewee Ocelot"
+date: 2019-12-02
+categories: ["Section 01", "Stats in the News"]
+tags: ["Section 01", "mass shootings"]
+thumbnailImage: https://www.screengeek.net/wp-content/uploads/2019/10/joker-movie.jpg
+thumbnailImagePosition: left
+---
+
+This is a question recently asked by an article by the Conversation. Read more to learn about what statistics they used to asnwer this question, the positives of this study, and some of the issues with their conclusions! 
+
+<!--more-->
+
+The article begins by using a poll conducted by Gallup Poll, which found that 48% of people were worried about being a victim of a mass shooting. The article uses this poll in congruence with the fact that theatres hired extra security for the “Joker” movie and the false shooting alarms in densely populated areas like Times Square and New York to validate his claim that people are on edge about mass shootings. The article then uses a census gathered from the FBI: UCR to demonstrate that shootings only accounted for a very small proportion of deaths, being 0.04 in 100,000. The article points out a discongruence between the Gun Violence Archive and FBI Database, as the Gun Violence Archive states that there were 337 recording active shooting incidents, while the FBI one states that there were 27. The article attributes it to the Gun Violence Archive lumping in other types of shootings, like familicides, into the number. 
+
+The article makes good use of different sources to validate his claim. Distinguishing the difference between what the Gun Violence Archive and the FBI Database classify as active shooting incidents supports the article’s claim that many people think that mass shootings occur more frequently than what is true. However, the articles sometimes uses the statistics in strange ways. For example, the article makes a comparison between the likelihood of dying in an active shooting incident, being 0.04 in 100,000, and the likelihood of dying by lightning strike, being 0.035 in 100,000. However, in this false equivalency, the article ignores the fact that the former situation is preventable and has a possible solution, while the latter is a completely natural, freak incident. Also, while the article keeps referring to the 48% who are worried about being victim to a mass shooting, only 19% are “very worried” according to the poll. The other 29% are only “somewhat worried.”
+
+[This is a link to the original article](www.theconversation.com/have-we-become-too-paranoid-about-mass-shootings-125364)
+
+![](https://www.screengeek.net/wp-content/uploads/2019/10/joker-movie.jpg)

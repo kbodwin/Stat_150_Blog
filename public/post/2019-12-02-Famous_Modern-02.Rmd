@@ -1,0 +1,28 @@
+---
+title: "Andrew Gelman"
+author: "peewee_ocelot"
+date: 2019-12-02
+categories: ["Section 02", "Famous Modern Statistician"]
+tags: ["Section 02", "Andrew Gelman"]
+thumbnailImage: https://i.ytimg.com/vi/veiLCvcLIg8/maxresdefault.jpg
+thumbnailImagePosition: left
+--- 
+
+“Statistics is said to be the science of defaults. One of our challenges is to defaultize things.”
+
+![](https://i.ytimg.com/vi/veiLCvcLIg8/maxresdefault.jpg)
+
+Andrew Gelman was born on February 11, 1965. He is an American statistician, professor of statistics and political science, and director of the Applied Statistics Center at Columbia University. He earned an S.B. in mathematics and in physics from MIT in 1986 and a Ph.D. in statistics from Harvard University in 1990.
+
+He contributes to the Statistics field mainly through his work in Bayesian statistics and hierarchical models. Bayesian statistics is a theory in the field of statistics based on the Bayesian interpretation of probability where probability expresses a degree of belief in an event. Bayesian hierarchical modelling is a statistical model written in multiple levels (hierarchical form) that estimates the parameters of the posterior distribution using the Bayesian method. He is also a major contributor to the statistical programming framework Stan which is a probabilistic programming language for statistical inference written in C++. The Stan language is used to specify a (Bayesian) statistical model with an imperative program calculating the log probability density function.
+
+Gelman is currently a professor of political science and statistics at Columbia University, where he also directs the Applied Statistics Center. The Applied Statistics Center conducts research with several other departments at Columbia University, as well as containing a number of individual projects.
+
+In Gelman’s professional work, he struggled with Survey Weighting and Regression Modeling. The general principles of Bayesian data analysis imply that models for survey responses should be constructed conditional on all variables that affect the probability of inclusion and nonresponse, which are also the variables used in survey weighting and clustering. However, “such models can quickly become very complicated, with potentially thousands of poststratification cells” says Gelman (more info in link below). It would become a challenge to develop general families of multilevel probability models that yield reasonable Bayesian inferences. We discuss in the context of several ongoing public health and social surveys. This work is currently open-ended for Gelman, and they have concluded with thoughts on how research could proceed to solve these problems.
+
+Along with this, Gelman is notable for his efforts to make political science and statistics more accessible to journalists and to the public. He is one of the primary authors of The Monkey Cage, a Washington Post blog dedicated to providing informed commentary on politics and making political science more accessible (link to blog below). Gelman also keeps his own blog which deals with statistical practices in social science. He frequently writes about Bayesian statistics, displaying data, and interesting trends in social science. According to the New York Times, on the blog "he posts his thoughts on best statistical practices in the sciences, with a frequent emphasis on what he sees as the absurd and unscientific... He is respected enough that his posts are well read; he is cutting enough that many of his critiques are enjoyed with a strong sense of schadenfreude." He has been prominent as a critic of alleged shoddy methodological work in the replication crisis.
+
+Additional Articles:
+http://www.stat.columbia.edu/~gelman/research/published/STS226.pdf
+
+https://www.washingtonpost.com/politics/2019/06/10/about-monkey-cage/

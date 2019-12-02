@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reproducibility Crisis on Stat 150 at Cal Poly</title>
+    <link>/tags/reproducibility-crisis/</link>
+    <description>Recent content in Reproducibility Crisis on Stat 150 at Cal Poly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/reproducibility-crisis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> The Reproducibility Crisis</title>
+      <link>/2019/11/the-reproducibility-crisis/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/the-reproducibility-crisis/</guid>
+      <description>Teaser text or links here.
+Breakthroughs in fields with new experiments and results can be an exciting time, however, a survey from Nature journal is shedding light on reproducibility of experiments. Scientists have attempted to reproduce the scientific literature of other scientists or their own and most of the time the results fail to replicate the study. Why is research so difficult to replicate?
+This is a link to Google</description>
+    </item>
+    
+  </channel>
+</rss>

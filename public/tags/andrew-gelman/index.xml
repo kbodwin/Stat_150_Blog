@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew Gelman on Stat 150 at Cal Poly</title>
+    <link>/tags/andrew-gelman/</link>
+    <description>Recent content in Andrew Gelman on Stat 150 at Cal Poly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/andrew-gelman/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Andrew Gelman</title>
+      <link>/2019/12/andrew-gelman/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/12/andrew-gelman/</guid>
+      <description>“Statistics is said to be the science of defaults. One of our challenges is to defaultize things.”
+Andrew Gelman was born on February 11, 1965. He is an American statistician, professor of statistics and political science, and director of the Applied Statistics Center at Columbia University. He earned an S.B. in mathematics and in physics from MIT in 1986 and a Ph.D. in statistics from Harvard University in 1990.</description>
+    </item>
+    
+  </channel>
+</rss>

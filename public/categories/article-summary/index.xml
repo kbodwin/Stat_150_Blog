@@ -6,10 +6,30 @@
     <description>Recent content in Article Summary on Stat 150 at Cal Poly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/article-summary/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title> The Reproducibility Crisis</title>
+      <link>/2019/11/the-reproducibility-crisis/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/the-reproducibility-crisis/</guid>
+      <description>Teaser text or links here.
+Breakthroughs in fields with new experiments and results can be an exciting time, however, a survey from Nature journal is shedding light on reproducibility of experiments. Scientists have attempted to reproduce the scientific literature of other scientists or their own and most of the time the results fail to replicate the study. Why is research so difficult to replicate?
+This is a link to Google</description>
+    </item>
+    
+    <item>
+      <title>Reproducibility</title>
+      <link>/2019/11/reproducibility/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/reproducibility/</guid>
+      <description>Have you ever seen multiple, varying statistics for the same experiment? Have you tried and failed to recreate your own? That’s actually a lot more common than you think, even for professional. A Nature journal survey of 1,576 researchers shows just how many data professional have tried and failed to reproduce experiments by others and by their own selves. Being able to reproduce an experiment further confirms or denies first results.</description>
+    </item>
     
     <item>
       <title>Bias in AI</title>

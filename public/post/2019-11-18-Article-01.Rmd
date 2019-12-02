@@ -1,0 +1,28 @@
+---
+title: 'Reproducibility'
+author: "beamy_rhino"
+date: 2019-11-18
+categories: ["Section 01", "Article Summary"]
+tags: ["Section 01", "1,500 Scientists Lift the Lid on Reproducibility"]
+---
+
+Have you ever seen multiple, varying statistics for the same experiment? Have you tried and failed to recreate your own? That’s actually a lot more common than you think, even for professional. A Nature journal survey of 1,576 researchers shows just how many data professional have tried and failed to reproduce experiments by others and by their own selves. Being able to reproduce an experiment further confirms or denies first results. This article describes many possible reasons as to why reproducibility is difficult. It also describes how one can fix this problem, even though it seems minor (people usually trust published works anyway). Read more here!
+
+> "Survey sheds light on 'crisis' rocking research"
+> - Monya Baker
+
+https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970
+
+One can generate results from any experiment. However, reproducing that experiment to obtain more results can be tricky. A survey sent out by British scientific journal Nature showed that, out of 1,576 researchers surveyed, 70% have tried and failed to reproduce others’ experiments, while more than 50% have tried and failed to reproduce their own experiments. This survey is summarized in the article “1,500 Scientists Lift the Lid on Reproducibility” by Monya Baker.
+
+The survey mentioned in the article asked its respondents why they thought reproducibility was difficult to succeed in. More than 60% of respondents thought that two main factors are the pressure to publish and selective reporting. In other words, scientists and data analysts are somewhat forced to speed up a process or ditch preciseness in order to get ahead of their intense competition and time constraints. Neglecting an experiment like this, they say, often leads to problems in reproducibility of those experiments.
+
+Reproducibility of an experiment is very important in the data world. Marcus Munafo, a biological psychologist at the University of Bristol, UK, is quoted in the article as saying “We want to be discovering new things but not generating too many false leads.” Being able to reproduce an experiment gives one the ability to further confirm or deny the experiment’s first results, leading to more accurate data. However, when surveyed, most respondents said they would still trust published results even if the experiment was not able to be reproduced. Even so, they do think that reproducibility is important in research, and so want to improve it.
+
+The Nature survey asked respondents to rank 11 solutions to making reproducibility more possible. Almost 90% ranked “more robust experimental design”, “better statistics”, and “better mentorship” as the top solutions. However, all were noted as being very good; the lowest scoring solution (“journal checklists”), got a high score of 69%. This could indicate that respondents are open to trying out any ideas; after all, they are big on experiments!
+
+While this survey seems fairly accurate, the article does rightfully acknowledge any possible bias. Baker states that “The survey — which was e-mailed to Nature readers and advertised on affiliated websites and social-media outlets as being 'about reproducibility' — probably selected for respondents who are more receptive to and aware of concerns about reproducibility.” She means that anyone who doesn’t really have an opinion on reproducibility would be less likely to take the survey. This, however, should not completely invalidate the survey. After all, respondents were shown to have had issues with reproducibility themselves, giving them at least some authority on the subject matter.
+
+Overall, this article matter-of-factly informs readers about the importance of reproducibility. As future data pioneers, the readers of this blog would be wise to explore this article in depth.
+
+![](https://geneticliteracyproject.org/wp-content/uploads/2019/05/replication-yellow-art-.jpg)

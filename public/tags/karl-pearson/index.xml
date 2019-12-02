@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Karl Pearson on Stat 150 at Cal Poly</title>
+    <link>/tags/karl-pearson/</link>
+    <description>Recent content in Karl Pearson on Stat 150 at Cal Poly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/karl-pearson/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Karl Pearson</title>
+      <link>/2019/11/karl-pearson/</link>
+      <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/karl-pearson/</guid>
+      <description>“I look upon statistics as the handmaid of medicine, but on that very account I hold that it befits medicine to treat her handmaid with proper respect, and not to prostitute her services for controversial or personal purposes.”- Karl Pearson
+(https://www.britannica.com/biography/Karl-Pearson)(https://todayinsci.com/P/Pearson_Karl/PearsonKarl-Quotations.htm)
+Karl Pearson served as a leading founder in the modern field of statistics. Born in 1857 in London, England, Pearson spent many of his early years following the religious beliefs of his Quaker ancestry and it wasn’t until his mid-twenties that he decided to lean away from that, opting instead to explore his academic interests while slowly becoming more of an agnostic.</description>
+    </item>
+    
+  </channel>
+</rss>

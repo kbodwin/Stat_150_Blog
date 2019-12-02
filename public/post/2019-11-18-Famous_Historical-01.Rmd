@@ -1,0 +1,28 @@
+---
+title: "Karl Pearson: Great Biostatistician"
+author: "Zombie Elephant"
+date: 2019-11-18
+categories: ["Section 01", "Historical Statistician"]
+tags: ["Section 01", "Historical Statistician","Chi-sqiare","Biometrics","Biology","Biostatistician"]
+thumbnailImage: https://upload.wikimedia.org/wikipedia/commons/2/21/Karl_Pearson_2.jpg
+thumbnailImagePosition: left
+---
+Karl Pearson was a mathematician and biostatistician who garnered many awards and made huge contributions to statistics that vastly changed the way we use statistics today.
+
+# “All great scientists have, in a certain sense, been great artists; the man with no imagination may collect facts, but he cannot make great discoveries.” -Karl Pearson
+
+<!--more-->
+
+![](https://upload.wikimedia.org/wikipedia/commons/2/21/Karl_Pearson_2.jpg)
+
+Pearson was born on March 27, 1857 in London, England to a very wealthy family. His father, William Pearson was the Queen’s Counsel of the Inner Temple. He studied mathematics at University College School and then King’s College, graduating in 1879 at the age of 22. After graduating, he studied physics and physiology at the University of Heidelberg and the University of Berlin, respectively. While working at King’s College as a historian and a Germanics post, he noticed that the students back at Cambridge were much stronger and athletic than those in Germany. This led to his studying of biometrics. He went back to London, becoming a professor at King’s College and University College School where he met Francis Galton. Pearson was the protégé of Francis Galton, the cousin of Charles Darwin, and they studied evolution relating to eugenics and heredity. Pearson made many publications about his findings from his studies of evolution. After Galton died, Pearson became a Chair in Eugenics at University College School before forming the Department of Applied Statistics. He worked until he died in 1936, even continuing his work after his retirement from the department in 1933.
+
+Pearson is considered to be the chief founder of the school of biometrics, which is a field that seeks to describe evolution through body measurements and other measurable traits. Rather than studying inheritance through biology, and studying the mechanisms behind it, biometrics sought merely to provide mathematical descriptions of the end products of inheritance. Though biometrics has since lost to biological studies, the statistical tools he found along the way remain foundational to our understanding of statistics. He published a large number of papers on the subject, and, in order to further the science of biometry, he developed some of the most important statistical techniques we still use today. 
+
+He developed the chi-squared test, standard deviation, correlation, and regression coefficients in pursuit of biometry. Additionally, he developed a technique called Primary Component Analysis, which is used to turn datasets of possibly correlated variables into multiple linear components. The Phi coefficient, which measures associations of two binary variables, was another tool he generated.
+
+For all of this important work, Pearson was awarded some highly prestigious awards. He received the Darwin Medal for his work in biometrics, as well as the Weldon Memorial Prize, which rewards those who make noteworthy contributions to mathematics and statistics to further the field of biology. 
+
+Pearson was born into a very wealthy family and had opportunities to study at some of the best Universities in the world. It does not seem that he faced any great external barriers or challenges in achieving the amazing things he has, other than his name being accidentally changed (originally spelled carl) when he enrolled in the University of Heidelberg. When considering his accomplishments, though, it is important to note that his ideology and way of thinking in certain aspects is very flawed compared to today’s thinking. Although these were not challenges in his time, it can be challenging today to praise his great contributions to the field of statistics without also noting his flawed ideas. 
+
+In his journal, Annals of Eugenics, Pearson alleged that the jewish immigrants “will develop into a parasitic race”, and that on average “regarding both sexes, this alien Jewish population is somewhat inferior physically and mentally to the native population". Pearson was a eugenicist who applied his social Darwinism to entire nations, Pearson saw war against "inferior races" as a logical implication of the theory of evolution. Although Pearson’s accomplishments and contributions to mathematics and statistic and his outstanding work in the field should be recognized, it is important to also acknowledge his other ideas at the time and how his influential words could have impacted those around him. 

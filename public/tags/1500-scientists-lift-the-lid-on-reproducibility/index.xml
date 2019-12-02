@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1,500 Scientists Lift the Lid on Reproducibility on Stat 150 at Cal Poly</title>
+    <link>/tags/1500-scientists-lift-the-lid-on-reproducibility/</link>
+    <description>Recent content in 1,500 Scientists Lift the Lid on Reproducibility on Stat 150 at Cal Poly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/1500-scientists-lift-the-lid-on-reproducibility/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reproducibility</title>
+      <link>/2019/11/reproducibility/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/reproducibility/</guid>
+      <description>Have you ever seen multiple, varying statistics for the same experiment? Have you tried and failed to recreate your own? That’s actually a lot more common than you think, even for professional. A Nature journal survey of 1,576 researchers shows just how many data professional have tried and failed to reproduce experiments by others and by their own selves. Being able to reproduce an experiment further confirms or denies first results.</description>
+    </item>
+    
+  </channel>
+</rss>

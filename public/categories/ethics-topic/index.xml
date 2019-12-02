@@ -6,10 +6,19 @@
     <description>Recent content in Ethics Topic on Stat 150 at Cal Poly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/ethics-topic/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bias in ML</title>
+      <link>/2019/11/bias-in-ml/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/bias-in-ml/</guid>
+      <description>We are living in a digital age. Machines have become fully integrated into our daily lives; phones, television, electric toothbrushes, you name it. The use of artificial intelligence in data studies is rapidly increasing. But what are the ethical consequences when this machinery is taken too far? The study “Ethics and Bias in Machine Learning: A Technical Study of What Makes Us ‘Good’” by Ashley Nicole Shadowen examines this ethical dilemma.</description>
+    </item>
     
     <item>
       <title>Human Research Ethics and The Belmont Report</title>

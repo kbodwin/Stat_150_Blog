@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vaccines on Stat 150 at Cal Poly</title>
+    <link>/tags/vaccines/</link>
+    <description>Recent content in Vaccines on Stat 150 at Cal Poly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/vaccines/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vaccines and Autism</title>
+      <link>/2019/12/vaccines-and-autism/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/12/vaccines-and-autism/</guid>
+      <description>Do vaccines cause autism? In a study published in 2009, Jeffrey Gerber and Paul Offit try to determine if the components in a vaccine result in increased rates of autism. They conclude the research by assessing a variety of hypothesizes individually. Stick around to see if the vaccinations impact social skills, neurological behavior, and communication.
+This study, published on February 15 of 2009 by Jeffrey S. Gerber and Paul A.</description>
+    </item>
+    
+    <item>
+      <title>Vaccines and Autism</title>
+      <link>/2019/11/vaccines-and-autism/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/vaccines-and-autism/</guid>
+      <description>Do vaccines cause autism? In a study published in 2009, Jeffrey Gerber and Paul Offit try to determine if the components in a vaccine result in increased rates of autism. They conclude the research by assessing a variety of hypothesizes individually. Stick around to see if the vaccinations impact social skills, neurological behavior, and communication.
+This study, published on February 15 of 2009 by Jeffrey S. Gerber and Paul A.</description>
+    </item>
+    
+  </channel>
+</rss>

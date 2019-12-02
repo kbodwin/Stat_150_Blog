@@ -6,10 +6,72 @@
     <description>Recent content in Section 01 on Stat 150 at Cal Poly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/section-01/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Have we become too paranoid about mass shootings?</title>
+      <link>/2019/12/have-we-become-too-paranoid-about-mass-shootings/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/12/have-we-become-too-paranoid-about-mass-shootings/</guid>
+      <description>
+
+
+&lt;p&gt;This is a question recently asked by an article by the Conversation. Read more to learn about what statistics they used to asnwer this question, the positives of this study, and some of the issues with their conclusions!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Karl Pearson: Great Biostatistician</title>
+      <link>/2019/11/karl-pearson-great-biostatistician/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/karl-pearson-great-biostatistician/</guid>
+      <description>
+
+
+&lt;p&gt;Karl Pearson was a mathematician and biostatistician who garnered many awards and made huge contributions to statistics that vastly changed the way we use statistics today.&lt;/p&gt;
+&lt;div id=&#34;all-great-scientists-have-in-a-certain-sense-been-great-artists-the-man-with-no-imagination-may-collect-facts-but-he-cannot-make-great-discoveries.--karl-pearson&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;“All great scientists have, in a certain sense, been great artists; the man with no imagination may collect facts, but he cannot make great discoveries.” -Karl Pearson&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reproducibility</title>
+      <link>/2019/11/reproducibility/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/reproducibility/</guid>
+      <description>Have you ever seen multiple, varying statistics for the same experiment? Have you tried and failed to recreate your own? That’s actually a lot more common than you think, even for professional. A Nature journal survey of 1,576 researchers shows just how many data professional have tried and failed to reproduce experiments by others and by their own selves. Being able to reproduce an experiment further confirms or denies first results.</description>
+    </item>
+    
+    <item>
+      <title>Vaccines and Autism</title>
+      <link>/2019/11/vaccines-and-autism/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/vaccines-and-autism/</guid>
+      <description>
+
+
+&lt;p&gt;Today, the rate at which people are being diagnosed with autism has been increasing. This has caused concern for many who believe that vaccines could potentially be causing autism. Keep on reading to learn about the different hypothesis on between vaccines and autism, and whether or not vaccines can cause autism.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2908388/&#34;&gt;The history of vaccines and autism&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Karl Pearson</title>
+      <link>/2019/11/karl-pearson/</link>
+      <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/karl-pearson/</guid>
+      <description>“I look upon statistics as the handmaid of medicine, but on that very account I hold that it befits medicine to treat her handmaid with proper respect, and not to prostitute her services for controversial or personal purposes.”- Karl Pearson
+(https://www.britannica.com/biography/Karl-Pearson)(https://todayinsci.com/P/Pearson_Karl/PearsonKarl-Quotations.htm)
+Karl Pearson served as a leading founder in the modern field of statistics. Born in 1857 in London, England, Pearson spent many of his early years following the religious beliefs of his Quaker ancestry and it wasn’t until his mid-twenties that he decided to lean away from that, opting instead to explore his academic interests while slowly becoming more of an agnostic.</description>
+    </item>
     
     <item>
       <title>Allan Rossman</title>
@@ -49,6 +111,15 @@
       <guid>/2019/11/how-a-guiness-beer-brewer-created-t-tests/</guid>
       <description>“The rule of law can be wiped out in one misguided, however, well intentioned, generation”-William Gosset
  Although William Sealy Gosset is one of the least known contributors to modern statistics, his work is still widely referenced today. He was born in Canterbury, England on June 13, 1876 to Agnes Sealy Vidal and Colonel Frederic Gosset. Gosset attended Winchester College before studying chemistry and mathematics at Oxford.</description>
+    </item>
+    
+    <item>
+      <title>Bias in ML</title>
+      <link>/2019/11/bias-in-ml/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/bias-in-ml/</guid>
+      <description>We are living in a digital age. Machines have become fully integrated into our daily lives; phones, television, electric toothbrushes, you name it. The use of artificial intelligence in data studies is rapidly increasing. But what are the ethical consequences when this machinery is taken too far? The study “Ethics and Bias in Machine Learning: A Technical Study of What Makes Us ‘Good’” by Ashley Nicole Shadowen examines this ethical dilemma.</description>
     </item>
     
     <item>
