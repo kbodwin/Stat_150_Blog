@@ -23,22 +23,12 @@ This is a link to Google</description>
     </item>
     
     <item>
-      <title>Reproducibility</title>
-      <link>/2019/11/reproducibility/</link>
+      <title>Reproducibility (2)</title>
+      <link>/2019/11/reproducibility-2/</link>
       <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/11/reproducibility/</guid>
+      <guid>/2019/11/reproducibility-2/</guid>
       <description>Have you ever seen multiple, varying statistics for the same experiment? Have you tried and failed to recreate your own? That’s actually a lot more common than you think, even for professional. A Nature journal survey of 1,576 researchers shows just how many data professional have tried and failed to reproduce experiments by others and by their own selves. Being able to reproduce an experiment further confirms or denies first results.</description>
-    </item>
-    
-    <item>
-      <title>Bias in AI</title>
-      <link>/2019/11/bias-in-ai/</link>
-      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/2019/11/bias-in-ai/</guid>
-      <description>We put the artificial in artificial intelligence when it comes to statistics. We program robots to give us what we want, notrepresenting our entire population. Let’s use Aritificial Intelligence ethically and not incorporatebias in our alogorithms. Who knows, maybe in the future robots will keep an eye on us, detecting our flaws in bias.
-AI algorithms, also known as deep learning, find patterns in the data we collect.</description>
     </item>
     
     <item>

@@ -1,5 +1,5 @@
 ---
-title: "Stats In The News"
+title: "Stats In The News: Vaping"
 author: "Zombie Elephants"
 date: "2019-10-14"
 categories: ["Section 01", "Stats In The News"]
