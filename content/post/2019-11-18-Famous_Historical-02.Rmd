@@ -1,5 +1,5 @@
 ---
-title: "Karl Pearson"
+title: "Karl Pearson (2)"
 author: "Peewee_Ocelots"
 date: 2019-11-16
 categories: ["Section 02", "Famous Statisticians"]

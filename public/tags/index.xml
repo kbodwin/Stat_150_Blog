@@ -12,15 +12,6 @@
     
     
     <item>
-      <title></title>
-      <link>/tags/</link>
-      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Andrew Gelman</title>
       <link>/tags/andrew-gelman/</link>
       <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
@@ -44,6 +35,15 @@
       <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/david-blackwell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mass shootings</title>
+      <link>/tags/mass-shootings/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mass-shootings/</guid>
       <description></description>
     </item>
     
@@ -75,6 +75,15 @@
     </item>
     
     <item>
+      <title>The Future of Statistics</title>
+      <link>/tags/the-future-of-statistics/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/the-future-of-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tweets</title>
       <link>/tags/tweets/</link>
       <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
@@ -98,15 +107,6 @@
       <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/when-pregnant-women-who-abuse-opioids-are-treated-like-criminals-their-babies-suffer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mass shootings</title>
-      <link>/tags/mass-shootings/</link>
-      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/mass-shootings/</guid>
       <description></description>
     </item>
     
@@ -372,6 +372,15 @@
     </item>
     
     <item>
+      <title>p-hacking</title>
+      <link>/tags/p-hacking/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/p-hacking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ronald Fisher</title>
       <link>/tags/ronald-fisher/</link>
       <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
@@ -417,15 +426,6 @@
     </item>
     
     <item>
-      <title>p-hacking</title>
-      <link>/tags/p-hacking/</link>
-      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/p-hacking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gertrude Cox</title>
       <link>/tags/gertrude-cox/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
@@ -444,20 +444,20 @@
     </item>
     
     <item>
+      <title>p-values</title>
+      <link>/tags/p-values/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/p-values/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Probability</title>
       <link>/tags/probability/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/probability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RStudio</title>
-      <link>/tags/rstudio/</link>
-      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/rstudio/</guid>
       <description></description>
     </item>
     
@@ -471,20 +471,20 @@
     </item>
     
     <item>
+      <title>RStudio</title>
+      <link>/tags/rstudio/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/rstudio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Visualization</title>
       <link>/tags/visualization/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/visualization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>p-values</title>
-      <link>/tags/p-values/</link>
-      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/p-values/</guid>
       <description></description>
     </item>
     

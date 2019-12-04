@@ -1,5 +1,5 @@
 ---
-title: "John Tukey"
+title: "John Tukey (2)"
 author: "fizzy_lynx"
 date: 2019-11-04
 categories: ["Section 02", "Famous Historical Statistician"]

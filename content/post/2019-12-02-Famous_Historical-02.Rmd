@@ -1,5 +1,5 @@
 ---
-title: "David Blackwell"
+title: "David Blackwell (2)"
 author: "Dimply.Limpet"
 date: 2019-12-02
 categories: ["Section 02", "Famous Historical Statisticians"]
